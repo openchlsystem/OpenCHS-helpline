@@ -17,9 +17,9 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
 
 [Link to our Demo Product](https://165.227.145.55/helpline/)
 
-User Demo
+User: Demo
 
-Password Pass
+Password: P@ssw0rd
 
 Additionally just open the following links. This will fire up the asterisks
 
