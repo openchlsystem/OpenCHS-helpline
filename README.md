@@ -9,6 +9,7 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
  - [ChildLine Kenya](https://childlinekenya.co.ke)
  - [Sauti Uganda ](https://sauti.mglsd.go.ug/sauti/)
  - [Sema Tanzania](https://www.sematanzania.org/child-helpline)
+ - [Child Helpline Lesotho]
  - 
 
 
