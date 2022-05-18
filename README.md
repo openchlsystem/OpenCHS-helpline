@@ -24,11 +24,9 @@ Password: p@ssw0rd
 
 Additionally just open the following links. This will fire up the asterisks
 
-https://openchs.bitz-itc.com/ws
-:8089/ws
+https://openchs.bitz-itc.com:8089/ws/
 
-[https://165.227.145.55](https://openchs.bitz-itc.com/ws
-):8384/vami/
+https://openchs.bitz-itc.com:8384/vami/
 
 
 ## API Reference
