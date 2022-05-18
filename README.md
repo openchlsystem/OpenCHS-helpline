@@ -20,7 +20,7 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
 
 User: Demo
 
-Password: P@ssw0rd
+Password: p@ssw0rd
 
 Additionally just open the following links. This will fire up the asterisks
 
