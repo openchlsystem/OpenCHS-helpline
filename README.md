@@ -4,9 +4,12 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [UNICEF](https://www.unicef.org/)
+ - [UNFPA]((https://www.unfpa.org/))
+ - [ChildLine Kenya](https://childlinekenya.co.ke)
+ - [Sauti Uganda ](https://sauti.mglsd.go.ug/sauti/)
+ - [Sema Tanzania](https://www.sematanzania.org/child-helpline)
+ - 
 
 
 
