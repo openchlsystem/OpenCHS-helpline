@@ -16,7 +16,7 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
 
 ## Demo
 
-[Link to our Demo Product](https://165.227.145.55/helpline/)
+[Link to our Demo Product](https://openchs.bitz-itc.com/helpline/)
 
 User: Demo
 
@@ -24,9 +24,11 @@ Password: p@ssw0rd
 
 Additionally just open the following links. This will fire up the asterisks
 
-https://165.227.145.55:8089/ws
+https://openchs.bitz-itc.com/ws
+:8089/ws
 
-https://165.227.145.55:8384/vami/
+[https://165.227.145.55](https://openchs.bitz-itc.com/ws
+):8384/vami/
 
 
 ## API Reference
