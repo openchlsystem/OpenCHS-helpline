@@ -1,5 +1,5 @@
 
-# Helpline System  
+# OpenCHS  
 Our system is used by the helplines in East Afrcia to callect store and analyze data for Violence Against children and Gender based Violence.
 
 ## Acknowledgements
@@ -15,7 +15,7 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
 
 ## Demo
 
-[Insert gif or link to demo](https://165.227.145.55/helpline/)
+[Link to our Demo Product](https://165.227.145.55/helpline/)
 
 User Demo
 Password Pass
