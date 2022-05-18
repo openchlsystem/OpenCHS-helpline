@@ -1415,3 +1415,11 @@ nohup ./muu &
 ii.	When the call records are not updating but the calls have no issues in receiving and creating cases, run the following command on the terminal.
 curl http://localhost:7374/rpt/
 # helpline
+
+#Used By
+This Project is used by the following countries to manage their child Helpline system :
+
+-Childline Kenya
+-Sauti Uganda
+-Child Helpline Lesotho
+-Sema - Child Helpline Tanzania
