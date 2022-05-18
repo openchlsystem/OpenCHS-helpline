@@ -9,9 +9,22 @@ Our system is used by the helplines in East Afrcia to callect store and analyze 
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
+
+## Demo
+
+[Insert gif or link to demo](https://165.227.145.55/helpline/)
+
+User Demo
+Password Pass
+
+Additionally just open the following links. This will fire up the asterisks
+https://165.227.145.55:8089/ws
+https://165.227.145.55:8384/vami/
+
+
 ## API Reference
 
-#### Get all items
+
 
 CRM REST API
 
