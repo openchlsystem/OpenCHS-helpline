@@ -24,25 +24,36 @@ Password: p@ssw0rd
 
 # Level wise authentication
 
+# Admin User
 user TestAdmin
 
 Password: p@ssw0rd
+
+# Partner Login
 
 user TestPartner
 
 Password: p@ssw0rd
 
+# Case Manager
+
 user TestCaseManager
 
 Password: p@ssw0rd
+
+# Case Worker 
 
 user TestCaseWorker
 
 Password: p@ssw0rd
 
+# Supervisor
+
 user TestSupervisor
 
 Password: p@ssw0rd
+
+# Agent
 
 user TestAgent
 
