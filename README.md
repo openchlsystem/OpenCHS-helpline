@@ -22,6 +22,29 @@ User: Demo
 
 Password: p@ssw0rd
 
+# Level wise authentication
+
+user TestAdmin
+Password: p@ssw0rd
+
+user TestPartner
+Password: p@ssw0rd
+
+user TestCaseManager
+Password: p@ssw0rd
+
+user TestCaseWorker
+Password: p@ssw0rd
+
+user TestSupervisor
+Password: p@ssw0rd
+
+user TestAgent
+Password: p@ssw0rd
+
+
+
+
 Additionally just open the following links. This will fire up the asterisks
 
 https://openchs.bitz-itc.com:8089/ws/
