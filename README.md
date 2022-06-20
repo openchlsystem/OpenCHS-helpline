@@ -1464,3 +1464,27 @@ This Project is used by the following countries to manage their child Helpline s
 -Child Helpline Lesotho
 
 -Sema - Child Helpline Tanzania
+
+# User Instruction 
+<h1><a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Login to OPENCHS </a></h1>
+<div><b>Date:</b> June 20, 2022</div>
+<div><b>Author:</b> Nelson Adagi</div>
+<div><b>Source:</b> <a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
+<hr/>
+
+
+<div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
+</div>
+
+<div><h3>2. Click on user</h3>
+<img src="https://images.tango.us/public/screenshot_9a4d2364-62f0-4886-bab9-7844ab3c113a.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6771&fp-y=0.3300&fp-z=2.5600&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on user" />
+</div>
+
+<div><h3>3. Click on Login</h3>
+<img src="https://images.tango.us/public/screenshot_49e14185-551c-4e1c-813c-07b0355afc64.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6771&fp-y=0.5241&fp-z=2.5600&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Login" />
+</div>
+
+<hr/>
+<div>
+<a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
+</div>
