@@ -2032,3 +2032,39 @@ This Project is used by the following countries to manage their child Helpline s
 <div>
 <a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
+
+<h1><a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Editing a Case </a></h1>
+<div><b>Date:</b> June 20, 2022</div>
+<div><b>Author:</b> Nelson Adagi</div>
+<div><b>Source:</b> <a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
+<hr/>
+
+
+<div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
+</div>
+
+<div><h3>2. Click on Edit</h3>
+<img src="https://images.tango.us/public/screenshot_3c1d76d2-9898-4b53-a97c-21d0a007511f.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.7651&fp-y=0.2862&fp-z=3.0239&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Edit" />
+</div>
+
+<div><h3>3. Type "Child is not going to school father refused to listen to us "</h3>
+<img src="https://images.tango.us/public/screenshot_4f778343-37f2-4963-915e-2321fd0b34d2.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4766&fp-y=0.5329&fp-z=1.4701&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;Child is not going to school father refused to listen to us &quot;" />
+</div>
+
+<div><h3>4. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_3d989fdb-5ef7-4df3-b7fd-ea90d01b6c69.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3828&fp-y=0.8783&fp-z=3.2215&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>5. Click on Medium</h3>
+<img src="https://images.tango.us/public/screenshot_335afa6c-f639-4631-895b-1bda4e449195.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3391&fp-y=0.9583&fp-z=2.5397&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Medium" />
+</div>
+
+<div><h3>6. Click on Update</h3>
+<img src="https://images.tango.us/public/screenshot_93e1ecce-c9d8-4515-ac14-1e10df65ba03.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6354&fp-y=0.9572&fp-z=2.7586&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Update" />
+</div>
+
+<hr/>
+<div>
+<a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
+</div>
+
