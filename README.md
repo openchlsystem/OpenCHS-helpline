@@ -1488,3 +1488,111 @@ This Project is used by the following countries to manage their child Helpline s
 <div>
 <a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
+
+
+<h1><a href="https://app.tango.us/app/workflow/a2a61139-e7c9-453a-b53c-8d76cfb067cc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Joining Queue and Creating a Reporter  </a></h1>
+<div><b>Date:</b> June 20, 2022</div>
+<div><b>Author:</b> Nelson Adagi</div>
+<div><b>Source:</b> <a href="https://app.tango.us/app/workflow/a2a61139-e7c9-453a-b53c-8d76cfb067cc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
+<hr/>
+
+
+<div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
+</div>
+
+<div><h3>2. Click on Available</h3>
+<img src="https://images.tango.us/public/screenshot_466488e3-3b19-4c16-bdf4-91e985a050b4.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.8833&fp-y=0.0252&fp-z=3.0040&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Available" />
+</div>
+
+<div><h3>3. Click Profile & Join Join Queue</h3>
+<img src="https://images.tango.us/public/screenshot_815d0d20-41c9-444d-a965-2020dd3451a0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.9839&fp-y=0.0252&fp-z=2.9843&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click Profile &amp; Join Join Queue" />
+</div>
+
+<div><h3>4. Click on New Reporter</h3>
+<img src="https://images.tango.us/public/screenshot_f3d8460c-e604-459d-a66b-e3d4ac5dd88c.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.8130&fp-y=0.2314&fp-z=3.0239&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on New Reporter" />
+</div>
+
+<div><h3>5. Type "Zachayo "</h3>
+<img src="https://images.tango.us/public/screenshot_03f8f446-dce8-415a-9c43-f56481aeb54b.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4427&fp-y=0.2034&fp-z=1.9473&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;Zachayo &quot;" />
+</div>
+
+<div><h3>6. Type "20"</h3>
+<img src="https://images.tango.us/public/screenshot_436b16a1-28cd-4e31-8957-0caedb125752.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6094&fp-y=0.2034&fp-z=2.4427&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;20&quot;" />
+</div>
+
+<div><h3>7. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_34908eb9-1586-4271-afa9-04522c5c788c.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5417&fp-y=0.2774&fp-z=3.0040&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>8. Click on EASTERN</h3>
+<img src="https://images.tango.us/public/screenshot_0490132b-679c-428c-a557-3eae6dab5304.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5109&fp-y=0.3876&fp-z=1.6189&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on EASTERN" />
+</div>
+
+<div><h3>9. Click on BUDAKA</h3>
+<img src="https://images.tango.us/public/screenshot_ba701504-8ee1-484d-9283-fc786216a805.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5161&fp-y=0.4243&fp-z=1.6467&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on BUDAKA" />
+</div>
+
+<div><h3>10. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_d8a00651-810b-4918-8754-e5a47e5f5ef8.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6563&fp-y=0.2774&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>11. Click on ^Female</h3>
+<img src="https://images.tango.us/public/screenshot_2a760f07-9a7c-4664-82ec-381f66062fe5.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6099&fp-y=0.3163&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Female" />
+</div>
+
+<div><h3>12. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_f70b7b9a-4a75-4e64-816f-90244e12c536.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6563&fp-y=0.2774&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>13. Click on ^Male</h3>
+<img src="https://images.tango.us/public/screenshot_af2d3d29-ff93-4be3-a211-da8f15e89f75.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6099&fp-y=0.3865&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Male" />
+</div>
+
+<div><h3>14. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_8bb362b5-27e8-49ba-ab1b-961f171a8065.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.5066&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>15. Click on ^Kenyan</h3>
+<img src="https://images.tango.us/public/screenshot_8c5dab64-f1b9-4577-add2-ce4d2fefbb93.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.5455&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Kenyan" />
+</div>
+
+<div><h3>16. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_9519b957-1669-4b09-a1b5-a7e142a56fbb.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5417&fp-y=0.5066&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>17. Click on ^National ID</h3>
+<img src="https://images.tango.us/public/screenshot_00f975d0-3532-4cdc-b822-e1c1ac13d7fc.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5005&fp-y=0.5455&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^National ID" />
+</div>
+
+<div><h3>18. Type "34242425"</h3>
+<img src="https://images.tango.us/public/screenshot_b9256412-9de6-42ae-b6b4-0965dbe40150.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6094&fp-y=0.5071&fp-z=2.4427&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;34242425&quot;" />
+</div>
+
+<div><h3>19. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_8ea633d0-3d38-4297-a767-73040dde292f.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.5822&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>20. Click on ^Acholi</h3>
+<img src="https://images.tango.us/public/screenshot_c0a9fb14-3dd4-47ea-88f3-2c077e237ef0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.6212&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Acholi" />
+</div>
+
+<div><h3>21. Click on New Reporter…</h3>
+<img src="https://images.tango.us/public/screenshot_914882c8-12a7-43d1-b9bf-79774bbf62ab.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.3832&fp-z=1.0875&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on New Reporter…" />
+</div>
+
+<div><h3>22. Click on Next</h3>
+<img src="https://images.tango.us/public/screenshot_82473541-47d9-4aff-bfc5-33cd504f0ea8.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3880&fp-y=0.6601&fp-z=2.4742&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Next" />
+</div>
+
+<div><h3>23. Click on Close</h3>
+<img src="https://images.tango.us/public/screenshot_b100dbba-cb6b-48f1-9a2a-398e96d43ea0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.8227&fp-y=0.0746&fp-z=3.0441&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Close" />
+</div>
+
+<div><h3>24. Click on ⨯</h3>
+<img src="https://images.tango.us/public/screenshot_d0e21a45-abb2-42db-ac1f-794299192086.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.8414&fp-y=0.0800&fp-z=3.0441&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ⨯" />
+</div>
+
+<hr/>
+<div>
+<a href="https://app.tango.us/app/workflow/a2a61139-e7c9-453a-b53c-8d76cfb067cc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
+</div>
