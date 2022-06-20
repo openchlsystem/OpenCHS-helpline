@@ -1763,3 +1763,135 @@ This Project is used by the following countries to manage their child Helpline s
 <div>
 <a href="https://app.tango.us/app/workflow/676099df-e525-4eb2-9be4-dd41ec1e2feb?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
+
+
+<h1><a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Adding Perpetrator Details </a></h1>
+<div><b>Date:</b> June 20, 2022</div>
+<div><b>Author:</b> Nelson Adagi</div>
+<div><b>Source:</b> <a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
+<hr/>
+
+
+<div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
+</div>
+
+<div><h3>2. Type "Douglas"</h3>
+<img src="https://images.tango.us/public/screenshot_48c687ad-948c-4103-99c9-424f257b4868.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4427&fp-y=0.2034&fp-z=1.9473&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;Douglas&quot;" />
+</div>
+
+<div><h3>3. Type "25"</h3>
+<img src="https://images.tango.us/public/screenshot_751f7cd9-e5be-44de-b42c-72341076ed69.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6094&fp-y=0.2034&fp-z=2.4427&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;25&quot;" />
+</div>
+
+<div><h3>4. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_32e92cda-7e89-4faf-93ce-0ba303bcd02b.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5417&fp-y=0.2774&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>5. Click on CENTRAL</h3>
+<img src="https://images.tango.us/public/screenshot_90aab655-7f7f-4918-9c4a-1edad2b102cf.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5109&fp-y=0.3542&fp-z=1.6189&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on CENTRAL" />
+</div>
+
+<div><h3>6. Click on BUIKWE</h3>
+<img src="https://images.tango.us/public/screenshot_523f01ed-2464-4add-8972-0c8cd91a3934.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5161&fp-y=0.3854&fp-z=1.6467&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on BUIKWE" />
+</div>
+
+<div><h3>7. Click on LUGAZI MUNICIPALITY</h3>
+<img src="https://images.tango.us/public/screenshot_1cf316d2-919b-44e0-ac20-4520e2e14f0f.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5214&fp-y=0.4594&fp-z=1.6754&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on LUGAZI MUNICIPALITY" />
+</div>
+
+<div><h3>8. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_620896b7-612b-4b2d-992b-55fc7f9cf0e0.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6563&fp-y=0.2774&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>9. Click on ^Male</h3>
+<img src="https://images.tango.us/public/screenshot_cef97293-ab8b-4996-ab85-726b14f4ddb5.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6099&fp-y=0.3887&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Male" />
+</div>
+
+<div><h3>10. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_6f3591db-bad8-4be9-9be2-523f6c9b3217.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.5066&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>11. Click on ^Kenyan</h3>
+<img src="https://images.tango.us/public/screenshot_f8dd337a-07fb-4abd-880f-6553dbe32748.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.5455&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Kenyan" />
+</div>
+
+<div><h3>12. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_8e2277e1-3094-49cd-a1e0-352ea3fa967b.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5417&fp-y=0.5066&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>13. Click on ^National ID</h3>
+<img src="https://images.tango.us/public/screenshot_1a8a13d9-3a1d-47dd-8c2a-0f1a749c42cf.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5005&fp-y=0.5455&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^National ID" />
+</div>
+
+<div><h3>14. Type "21212"</h3>
+<img src="https://images.tango.us/public/screenshot_213d31d4-890e-47f6-9723-1db5c348b718.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6094&fp-y=0.5071&fp-z=2.4427&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;21212&quot;" />
+</div>
+
+<div><h3>15. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_ab4dc136-ff65-454a-8b30-e4ae4c9cb175.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.5795&fp-z=3.0543&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>16. Click on ^Acholi</h3>
+<img src="https://images.tango.us/public/screenshot_f261e741-5c78-4e46-a716-ec469ec6a275.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.6212&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Acholi" />
+</div>
+
+<div><h3>17. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_810757db-d189-4d98-98de-6e5b2f9eec57.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.6579&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>18. Type "nei"</h3>
+<img src="https://images.tango.us/public/screenshot_c5bb82f4-f5e0-4724-b524-9ade0c44b3cd.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3880&fp-y=0.6584&fp-z=2.4742&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Type &quot;nei&quot;" />
+</div>
+
+<div><h3>19. Click on ghbor</h3>
+<img src="https://images.tango.us/public/screenshot_3bdfc174-607f-460f-a394-e69c98b73720.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3648&fp-y=0.6990&fp-z=3.1527&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ghbor" />
+</div>
+
+<div><h3>20. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_0610d9d9-d475-473e-b3d7-1ab1eb0da001.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5417&fp-y=0.5439&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>21. Click on ^No</h3>
+<img src="https://images.tango.us/public/screenshot_9636681e-d6ed-4705-a603-4726e129276c.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4979&fp-y=0.5828&fp-z=2.5397&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^No" />
+</div>
+
+<div><h3>22. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_a1b5bed6-2ff8-4433-8b56-7349fe8b2552.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6563&fp-y=0.5439&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>23. Click on ^Casual Laborer</h3>
+<img src="https://images.tango.us/public/screenshot_b53a2359-af5b-409b-b71c-1433dc376b6d.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.6099&fp-y=0.5828&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Casual Laborer" />
+</div>
+
+<div><h3>24. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_97c57774-dadb-4662-9e11-29e0fbcc0aff.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.6195&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>25. Click on ^Divorced</h3>
+<img src="https://images.tango.us/public/screenshot_da02a920-6d27-445d-a9f2-aa7ea61ee08d.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3565&fp-y=0.6968&fp-z=3.0332&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Divorced" />
+</div>
+
+<div><h3>26. Click on ^Cohabiting</h3>
+<img src="https://images.tango.us/public/screenshot_3b6f82f9-5e7b-4e98-a28a-51fe4527b2bf.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.6563&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Cohabiting" />
+</div>
+
+<div><h3>27. Click on Perpetrator's Guardian's Name</h3>
+<img src="https://images.tango.us/public/screenshot_7fe76b1c-07e6-44aa-8c4e-f423e4a2bd3d.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.6765&fp-z=1.5920&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Perpetrator&#039;s Guardian&#039;s Name" />
+</div>
+
+<div><h3>28. Click on highlight</h3>
+<img src="https://images.tango.us/public/screenshot_40a6d3e6-72cf-4585-942b-adc68766675d.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.4323&fp-y=0.6195&fp-z=3.1063&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on highlight" />
+</div>
+
+<div><h3>29. Click on ^Unknown</h3>
+<img src="https://images.tango.us/public/screenshot_426e8b49-30aa-4a89-815d-90d8accb9905.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3911&fp-y=0.8372&fp-z=2.5065&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on ^Unknown" />
+</div>
+
+<div><h3>30. Click on Add</h3>
+<img src="https://images.tango.us/public/screenshot_ffe17459-502c-494d-9416-16f7e2fcb0e9.png?fm=png&crop=focalpoint&fit=crop&fp-x=0.3880&fp-y=0.9079&fp-z=2.4742&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A912" width="600" alt="Click on Add" />
+</div>
+
+<hr/>
+<div>
+<a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
+</div>
