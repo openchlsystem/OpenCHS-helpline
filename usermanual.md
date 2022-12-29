@@ -1,18 +1,4 @@
-![](RackMultipart20221229-1-3klt3l_html_a0f691e8c71faf2e.jpg)
 
-![Shape2](RackMultipart20221229-1-3klt3l_html_f5043595c5f56095.gif) ![Shape4](RackMultipart20221229-1-3klt3l_html_1ac46fa9c460bf3a.gif) ![Shape3](RackMultipart20221229-1-3klt3l_html_ab1d7c81d8b22412.gif) ![Shape5](RackMultipart20221229-1-3klt3l_html_f5043595c5f56095.gif) ![](RackMultipart20221229-1-3klt3l_html_c60ac7775ef96e87.png) ![Shape6](RackMultipart20221229-1-3klt3l_html_f5043595c5f56095.gif)
-
-REPUBLIC OF UGANDA
-
-Ministry of Gender Labour & Social Development
-
-**SYSTEM USER MANUAL**
-
-FOR THE UPGRADE OF THE VAC HELPLINE SYSTEM
-
-Submitted By
-
-October 2021
 
  
 
@@ -682,28 +668,3 @@ A "New" button is available under every category for adding new items.
 This user manual provides the directions for system use as provided by Bitz IT Consulting. This document is initially a replica of the solution's first version and may be updated with further system upgrades.
 
 # 13User Manual Sign-Off
-
-|
-By signing this document, I acknowledge that I have received stated deliverables to the agreed quality levels.
- |
-| --- |
-| |
-**Signature:**
- |
-| **Date:**
- |
-|
-
- |
-**Signature:**
-
- |
-| **Date:**
- |
-|
-**Bitz IT Consulting Ltd: Director**** Name: **James Nganga** Email:** [james.nganga@bitz-itc.com](mailto:james.nganga@bitz-itc.com)  |
-**Signature:**
- |
-|
- | **Date:**
- |
