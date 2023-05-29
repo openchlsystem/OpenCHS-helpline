@@ -1,0 +1,26 @@
+{
+    "client_agemonths": 10, //integer
+    "client_guardian": "Mike Mutiso", //string
+    "perp_name": "Shem Oliech", //string
+    "perp_phone": "25479999999", //string
+    "perp_email": "shem.oliech@example.com", //string
+    "perp_location": "Upper Hill", //string
+    "perp_landmark": "Kenyatta Market", //string
+    "perp_gender": "Male", //string
+    "case_justice": "Police", //string
+    "reporter_name": "Mary Mitchel", //string
+    "reporter_phone": "25410000001", //string
+    "reporter_email": "mary.mitchel@examaple.com", //string
+    "reporter_location": "Wilson", //string
+    "reporter_landmark": "Wilson Airport", //string
+    "client_name": "Peace Amani", //string
+    "client_gender": "Male", //string
+    "client_ageyears": "14", //integer
+    "client_location": "Kenyatta", //string
+    "client_landmark": "Kenyatta Hospital", //string
+    "case_narrative": "This is a test case where we presume the child has not been attending school because the uncle is using him for domestic labor", //string
+    "case_reported": "Yes", //string
+    "perpetrator_is": "true", //string | boolean
+    "source": "Facebook", //string
+    "additional_fields": { "client_mother": "Mitchel Chebii", "client_school": "Kenyatta Primary" } //json string
+}
