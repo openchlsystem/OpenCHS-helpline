@@ -1,0 +1,442 @@
+Date: Thu, 4 Nov 2021 12:01:45 +0000 (UTC)
+Message-ID: <2015909694.29.1636027305886@6b45da73b098>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_28_1528354811.1636027305885"
+
+------=_Part_28_1528354811.1636027305885
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Lesotho03/21-Meeting Notes</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Lesotho03/21-Meeting Notes</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"Lesotho03/21-MeetingNotes-Date">Date</h2>
+<p><time datetime=3D"2021-11-05" class=3D"date-upcoming">05 Nov 2021</time>=
+</p>
+<h2 id=3D"Lesotho03/21-MeetingNotes-Participants">Participants</h2>
+<p></p>
+<ul>
+<li><p><a class=3D"confluence-userlink user-mention current-user-mention" d=
+ata-username=3D"5eeaf0abe571480ac2a316d2" data-account-id=3D"5eeaf0abe57148=
+0ac2a316d2" href=3D"https://thinkiqbs.atlassian.net/wiki/people/5eeaf0abe57=
+1480ac2a316d2?ref=3Dconfluence" target=3D"_blank" data-linked-resource-id=
+=3D"163919" data-linked-resource-version=3D"1" data-linked-resource-type=3D=
+"userinfo" data-base-url=3D"https://thinkiqbs.atlassian.net/wiki">Nelson.Ad=
+agi</a>, James Nganga, Henry Kemboi </p></li>
+<li><p></p></li>
+<li><p> </p></li>
+</ul>
+<h2 id=3D"Lesotho03/21-MeetingNotes-Goals">Goals</h2>
+<p>Deployment Planning </p>
+<p>Training Plan </p>
+<ul>
+<li><p></p></li>
+</ul>
+<h2 id=3D"Lesotho03/21-MeetingNotes-Discussiontopics">Discussion topics</h2=
+>
+<div class=3D"table-wrap">
+<table data-layout=3D"wide" data-local-id=3D"1b0efa7e-1740-4786-a240-72fb97=
+9d3c2f" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 60.0px;">
+<col style=3D"width: 116.0px;">
+<col style=3D"width: 91.0px;">
+<col style=3D"width: 187.0px;">
+<col style=3D"width: 303.0px;">
+<col style=3D"width: 113.0px;">
+<col style=3D"width: 90.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Time</p></th>
+<th class=3D"confluenceTh"><p>Item</p></th>
+<th class=3D"confluenceTh"><p>Presenter</p></th>
+<th class=3D"confluenceTh"><p><strong>Required </strong></p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th class=3D"confluenceTh"><p><strong>Responsible </strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Due </strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Deployment </p></td>
+<td class=3D"confluenceTd"><p><a class=3D"confluence-userlink user-mention =
+current-user-mention" data-username=3D"5eeaf0abe571480ac2a316d2" data-accou=
+nt-id=3D"5eeaf0abe571480ac2a316d2" href=3D"https://thinkiqbs.atlassian.net/=
+wiki/people/5eeaf0abe571480ac2a316d2?ref=3Dconfluence" target=3D"_blank" da=
+ta-linked-resource-id=3D"163919" data-linked-resource-version=3D"1" data-li=
+nked-resource-type=3D"userinfo" data-base-url=3D"https://thinkiqbs.atlassia=
+n.net/wiki">Nelson.Adagi</a> </p></td>
+<td class=3D"confluenceTd"><p>Technical CHL </p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p></p></li>
+<li><p>We require details of connecting to there server once the OS is setu=
+p</p></li>
+<li><p>OS will be Centos ( as indicated in the FRD)</p></li>
+<li><p>Tech can install Anydesk or we can start our configuration </p></li>
+<li><p>It is possible the server will Require a GSM card /E1 card to allow =
+telecommunication </p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Training </p></td>
+<td class=3D"confluenceTd"><p><a class=3D"confluence-userlink user-mention =
+current-user-mention" data-username=3D"5eeaf0abe571480ac2a316d2" data-accou=
+nt-id=3D"5eeaf0abe571480ac2a316d2" href=3D"https://thinkiqbs.atlassian.net/=
+wiki/people/5eeaf0abe571480ac2a316d2?ref=3Dconfluence" target=3D"_blank" da=
+ta-linked-resource-id=3D"163919" data-linked-resource-version=3D"1" data-li=
+nked-resource-type=3D"userinfo" data-base-url=3D"https://thinkiqbs.atlassia=
+n.net/wiki">Nelson.Adagi</a> </p></td>
+<td class=3D"confluenceTd"><p>Local Cordinator </p></td>
+<td class=3D"confluenceTd"><p>List of participants for the training/ The tr=
+aining is expected to start on <time datetime=3D"2021-11-11" class=3D"date-=
+upcoming">11 Nov 2021</time> and will run for 2 days.</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td class=3D"confluenceTd"><p>UAT <br></p></td>
+<td class=3D"confluenceTd"><p><a class=3D"confluence-userlink user-mention =
+current-user-mention" data-username=3D"5eeaf0abe571480ac2a316d2" data-accou=
+nt-id=3D"5eeaf0abe571480ac2a316d2" href=3D"https://thinkiqbs.atlassian.net/=
+wiki/people/5eeaf0abe571480ac2a316d2?ref=3Dconfluence" target=3D"_blank" da=
+ta-linked-resource-id=3D"163919" data-linked-resource-version=3D"1" data-li=
+nked-resource-type=3D"userinfo" data-base-url=3D"https://thinkiqbs.atlassia=
+n.net/wiki">Nelson.Adagi</a> <br></p></td>
+<td class=3D"confluenceTd"><p>Local Cordinator </p></td>
+<td class=3D"confluenceTd"><p>We need an advance list of all the users who =
+will particiate in the user acceptance test <br></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Regions </p></td>
+<td class=3D"confluenceTd"><p><a class=3D"confluence-userlink user-mention =
+current-user-mention" data-username=3D"5eeaf0abe571480ac2a316d2" data-accou=
+nt-id=3D"5eeaf0abe571480ac2a316d2" href=3D"https://thinkiqbs.atlassian.net/=
+wiki/people/5eeaf0abe571480ac2a316d2?ref=3Dconfluence" target=3D"_blank" da=
+ta-linked-resource-id=3D"163919" data-linked-resource-version=3D"1" data-li=
+nked-resource-type=3D"userinfo" data-base-url=3D"https://thinkiqbs.atlassia=
+n.net/wiki">Nelson.Adagi</a> </p></td>
+<td class=3D"confluenceTd"><p>Local Cordinator </p></td>
+<td class=3D"confluenceTd"><p>We noticed that the regions were provided on =
+one of the sheets but only at top level, I have atttached a excel sheet i d=
+ownloaded from the internet with diffrent levels.</p><p class=3D"media-grou=
+p"><img height=3D"250" style=3D"margin: 2px; border: 1px solid #ddd; box-si=
+zing: border-box; vertical-align: text-bottom;" src=3D"0ff1255c37c404575b01=
+6949eda3c960" width=3D"250"></p><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Categories </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Local Cordinator </p></td>
+<td class=3D"confluenceTd"><p>Categories have now been provided and we are =
+going ahead to custome make them.</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"Lesotho03/21-MeetingNotes-Actionitems">Action items</h2>
+<p></p>
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"486408193">
+<li data-inline-task-id=3D"78"><span class=3D"placeholder-inline-tasks">Ens=
+ure Server is connected to a LAN and installed with Centos ( Version is spe=
+cified on FRD) </span></li>
+<li data-inline-task-id=3D"79"><span class=3D"placeholder-inline-tasks">Ins=
+tall Anydesk and provide IP </span></li>
+<li data-inline-task-id=3D"80"><span class=3D"placeholder-inline-tasks">Pro=
+vide Server Public IP Address </span></li>
+<li data-inline-task-id=3D"81"><span class=3D"placeholder-inline-tasks">Pro=
+vide Server Anydesk ID &amp; Password </span></li>
+<li data-inline-task-id=3D"82"><span class=3D"placeholder-inline-tasks">Dep=
+loy Asterisk &amp; CRM </span></li>
+<li data-inline-task-id=3D"83"><span class=3D"placeholder-inline-tasks">Pro=
+vide a list of users to be training Next week </span></li>
+<li data-inline-task-id=3D"84"><span class=3D"placeholder-inline-tasks">Pre=
+pare training material ( ppt &amp; User Manual) </span></li>
+<li data-inline-task-id=3D"85"><span class=3D"placeholder-inline-tasks">Set=
+up Zoom &amp; Calls</span></li>
+</ul>
+<h2 id=3D"Lesotho03/21-MeetingNotes-Decisions">Decisions</h2>
+<p></p>
+<ul class=3D"decision-list"></ul>
+    </div>
+</body>
+</html>
+------=_Part_28_1528354811.1636027305885
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/0ff1255c37c404575b016949eda3c960
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAAFRElEQVR4Xu3cCXPaOBQHcPlCDmAHAgnOQaPv/6mYbjs7SSdNSSiE
+0yvJlyw7bGCLHZb/bxrbPD0LPXyQxgZCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAjoChBw7D3WwsPfaOtWm+6bEj5tqOq8fe4zrmh3OPQMPRI9s4DT1yEKYeOIgP7+2S
+tdEjR4zqge12TN9TNVv9Uzrh0nc6CPdmr/WIHzTmZv8ynOsNQjH9EGoq3Ztas0VI1hOvrPZC+hHT
+z1sDeh0tXFMv3yLp6cdMq8W3vySL55avtkSqKb2W01y38zVZHJ931ZYq2XqgCtNZtjyvZQTV0fZg
+S/lPky9OtFr7/3eHP7PD7MFLbVu9jtI/CZR+ilD6Kaqt9GrewLaprfT6ofRThNJPEUo/RSj9FKH0
++jSbTT1UkVpKF8Uu4yvJljMlZ7VUX0fps7HLN3YneuBtCAnH+YRq1FE6aZ6Taec5IOIv8k9TQs5r
+2eq1XHgKzTfy0rRaZv/ZC3npzix/Rb2aC0+1lN5+bS7JgnjWb/N1SUhr1sxfeaum9Grof5cYUuV2
+Gde8zR5IevoxK9TSs1vJokd7aotQSD9ixVqGZmfgnp25g46tb/Oy9ONVUovvtG3atdtOyZ17JelH
+a8dadkzfUy3v658DSj+w9U63frrVvK1XU7q5UzHrigalBw7CDHe5Pbii0kveWg7hdG8KBwAAAAAA
+AAAAAIASTA+8h+mBiEOZHirH9MB/Ip6W6UGJ6YHEH/9rv9kf6aG9DSmlN/Ljvg5fkl/1EcSvrNHm
+EeWehD2e9o+X/vZTj+zvsW1cPkz5wq3Zpm1zwJeer6Km6+VgMZicp6niaUfpo/0wcYtH/Ire05De
+Z01el9KuuIB0weN9nsjueeJtn0/S20MYlyVqHeTyWdwuOiI9Husrz5BxxcV2S9xk14iu3zA5pXd8
+cpduOPm0TBk68ekFESM1ctGtGO+24fpDKvaywA+UVejQ8K8uxU435O08kVHPv6Fyoq6fJuod5PKZ
+KDjuqEd7/pdutqLCE13LD/jLpXzp+adl2dC5Fh2SAU/LR7dhcbecPLqc/Co+fyiLcRjP5SNy5SQ/
+hjRR6yCXz+KOemJB+coesaLCEt/PE4oDPm5gcnpFPYNvzDRNRFk2dGFIb+mgEM2UHeu9H5d9mSz2
+MOUqYatL2YW4FPg7ia/4QSYn8fcv6IlaB4V80ZH4SZLSFVMNu/yTzj+cRWNR/LKHdOjcX8G3zUMh
+ugXjP18aFuUvtry5Tdmg9OauabAkzuINkE0ksZRP1PaIZJK2JwskWzHVoPIEX9zhpaCw1ZOhS+1Q
+LOnRVNlWJ18Xa9vgc3HyUm8KmHybyhdPjxd8NFG0yzNkkpSsGOsb9EXMV2KvmK+UFmmufA4+lgyd
+6y07RnyeUaKZstJpz/X56ZZsJvwsZLazhjd/8MhnbRnPwkVxYqEDjexowheuTH6aE+XFK8aCV0NW
+ToJZz+8ZYkwJOjBal9OlEonC8dD5tm5N+uPORL6waTSnrILuJJyLLxNYBo/jx+ApjbvG/NcZnz+1
+eLx4nGWSRL0D3ZNob/3ND8vNZP7QzVaMPV8H/E2LHwzfN5PxRB64jIl//FX91Vg5tLDVk6Hzk+Iq
+/E4evJU4YLLo53L77+86h/HR2zwOwxyGnZ/htrPBARUO/hIsmo3UWAGLZiM1lmDRbKTGpP4rf8+2
+xa+qOSyajdTYO1g0G6kxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg5B/E
+kwnQm7oKpgAAAABJRU5ErkJggg==
+------=_Part_28_1528354811.1636027305885--

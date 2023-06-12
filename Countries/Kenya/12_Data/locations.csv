@@ -1,0 +1,1788 @@
+name,label,parent,area,list_code
+1,Mombasa,,County,001
+2,Kwale,,County,002
+3,Kilifi,,County,003
+4,Tana River,,County,004
+5,Lamu,,County,005
+6,Taita Taveta,,County,006
+7,Garissa,,County,007
+8,Wajir,,County,008
+9,Mandera,,County,009
+10,Marsabit,,County,010
+11,Isiolo,,County,011
+12,Meru,,County,012
+13,Tharaka - Nithi,,County,013
+14,Embu,,County,014
+15,Kitui,,County,015
+16,Machakos,,County,016
+17,Makueni,,County,017
+18,Nyandarua,,County,018
+19,Nyeri,,County,019
+20,Kirinyaga,,County,020
+21,Murang'a,,County,021
+22,Kiambu,,County,022
+23,Turkana,,County,023
+24,West Pokot,,County,024
+25,Samburu,,County,025
+26,Trans Nzoia,,County,026
+27,Uasin Gishu,,County,027
+28,Elgeyo/Marakwet,,County,028
+29,Nandi,,County,029
+30,Baringo,,County,030
+31,Laikipia,,County,031
+32,Nakuru,,County,032
+33,Narok,,County,033
+34,Kajiado,,County,034
+35,Kericho,,County,035
+36,Bomet,,County,036
+37,Kakamega,,County,037
+38,Vihiga,,County,038
+39,Bungoma,,County,039
+40,Busia,,County,040
+41,Siaya,,County,041
+42,Kisumu,,County,042
+43,Homa Bay,,County,043
+44,Migori,,County,044
+45,Kisii,,County,045
+46,Nyamira,,County,046
+47,Nairobi,,County,047
+48,Changamwe,1,Constituency,001
+49,Jomvu,1,Constituency,002
+50,Kisauni,1,Constituency,003
+51,Nyali,1,Constituency,004
+52,Likoni,1,Constituency,005
+53,Mvita,1,Constituency,006
+54,Msambweni,2,Constituency,007
+55,Lungalunga,2,Constituency,008
+56,Matuga,2,Constituency,009
+57,Kinango,2,Constituency,010
+58,Kilifi North,3,Constituency,011
+59,Kilifi South,3,Constituency,012
+60,Kaloleni,3,Constituency,013
+61,Rabai,3,Constituency,014
+62,Ganze,3,Constituency,015
+63,Malindi,3,Constituency,016
+64,Magarini,3,Constituency,017
+65,Garsen,4,Constituency,018
+66,Galole,4,Constituency,019
+67,Bura,4,Constituency,020
+68,Lamu East,5,Constituency,021
+69,Lamu West,5,Constituency,022
+70,Taveta,6,Constituency,023
+71,Wundanyi,6,Constituency,024
+72,Mwatate,6,Constituency,025
+73,Voi,6,Constituency,026
+74,Garissa Township,7,Constituency,027
+75,Balambala,7,Constituency,028
+76,Lagdera,7,Constituency,029
+77,Dadaab,7,Constituency,030
+78,Fafi,7,Constituency,031
+79,Ijara,7,Constituency,032
+80,Wajir North,8,Constituency,033
+81,Wajir East,8,Constituency,034
+82,Tarbaj,8,Constituency,035
+83,Wajir West,8,Constituency,036
+84,Eldas,8,Constituency,037
+85,Wajir South,8,Constituency,038
+86,Mandera West,9,Constituency,039
+87,Banissa,9,Constituency,040
+88,Mandera North,9,Constituency,041
+89,Mandera South,9,Constituency,042
+90,Mandera East,9,Constituency,043
+91,Lafey,9,Constituency,044
+92,Moyale,10,Constituency,045
+93,North Horr,10,Constituency,046
+94,Saku,10,Constituency,047
+95,Laisamis,10,Constituency,048
+96,Isiolo North,11,Constituency,049
+97,Isiolo South,11,Constituency,050
+98,Igembe South,12,Constituency,051
+99,Igembe Central,12,Constituency,052
+100,Igembe North,12,Constituency,053
+101,Tigania West,12,Constituency,054
+102,Tigania East,12,Constituency,055
+103,North Imenti,12,Constituency,056
+104,Buuri,12,Constituency,057
+105,Central Imenti,12,Constituency,058
+106,South Imenti,12,Constituency,059
+107,Maara,13,Constituency,060
+108,Chuka/Igambang'om,13,Constituency,061
+109,Tharaka,13,Constituency,062
+110,Manyatta,14,Constituency,063
+111,Runyenjes,14,Constituency,064
+112,Mbeere South,14,Constituency,065
+113,Mbeere North,14,Constituency,066
+114,Mwingi North,15,Constituency,067
+115,Mwingi West,15,Constituency,068
+116,Mwingi Central,15,Constituency,069
+117,Kitui West,15,Constituency,070
+118,Kitui Rural,15,Constituency,071
+119,Kitui Central,15,Constituency,072
+120,Kitui East,15,Constituency,073
+121,Kitui South,15,Constituency,074
+122,Masinga,16,Constituency,075
+123,Yatta,16,Constituency,076
+124,Kangundo,16,Constituency,077
+125,Matungulu,16,Constituency,078
+126,Kathiani,16,Constituency,079
+127,Mavoko,16,Constituency,080
+128,Machakos Town,16,Constituency,081
+129,Mwala,16,Constituency,082
+130,Mbooni,17,Constituency,083
+131,Kilome,17,Constituency,084
+132,Kaiti,17,Constituency,085
+133,Makueni,17,Constituency,086
+134,Kibwezi West,17,Constituency,087
+135,Kibwezi East,17,Constituency,088
+136,Kinangop,18,Constituency,089
+137,Kipipiri,18,Constituency,090
+138,Ol Kalou,18,Constituency,091
+139,Ol Jorok,18,Constituency,092
+140,Ndaragwa,18,Constituency,093
+141,Tetu,19,Constituency,094
+142,Kieni,19,Constituency,095
+143,Mathira,19,Constituency,096
+144,Othaya,19,Constituency,097
+145,Mukurweini,19,Constituency,098
+146,Nyeri Town,19,Constituency,099
+147,Mwea,20,Constituency,100
+148,Gichugu,20,Constituency,101
+149,Ndia,20,Constituency,102
+150,Kirinyaga Central,20,Constituency,103
+151,Kangema,21,Constituency,104
+152,Mathioya,21,Constituency,105
+153,Kiharu,21,Constituency,106
+154,Kigumo,21,Constituency,107
+155,Maragwa,21,Constituency,108
+156,Kandara,21,Constituency,109
+157,Gatanga,21,Constituency,110
+158,Gatundu South,22,Constituency,111
+159,Gatundu North,22,Constituency,112
+160,Juja,22,Constituency,113
+161,Thika Town,22,Constituency,114
+162,Ruiru,22,Constituency,115
+163,Githunguri,22,Constituency,116
+164,Kiambu,22,Constituency,117
+165,Kiambaa,22,Constituency,118
+166,Kabete,22,Constituency,119
+167,Kikuyu,22,Constituency,120
+168,Limuru,22,Constituency,121
+169,Lari,22,Constituency,122
+170,Turkana North,23,Constituency,123
+171,Turkana West,23,Constituency,124
+172,Turkana Central,23,Constituency,125
+173,Loima,23,Constituency,126
+174,Turkana South,23,Constituency,127
+175,Turkana East,23,Constituency,128
+176,Kapenguria,24,Constituency,129
+177,Sigor,24,Constituency,130
+178,Kacheliba,24,Constituency,131
+179,Pokot South,24,Constituency,132
+180,Samburu West,25,Constituency,133
+181,Samburu North,25,Constituency,134
+182,Samburu East,25,Constituency,135
+183,Kwanza,26,Constituency,136
+184,Endebess,26,Constituency,137
+185,Saboti,26,Constituency,138
+186,Kiminini,26,Constituency,139
+187,Cherangany,26,Constituency,140
+188,Soy,27,Constituency,141
+189,Turbo,27,Constituency,142
+190,Moiben,27,Constituency,143
+191,Ainabkoi,27,Constituency,144
+192,Kapseret,27,Constituency,145
+193,Kesses,27,Constituency,146
+194,Marakwet East,28,Constituency,147
+195,Marakwet West,28,Constituency,148
+196,Keiyo North,28,Constituency,149
+197,Keiyo South,28,Constituency,150
+198,Tinderet,29,Constituency,151
+199,Aldai,29,Constituency,152
+200,Nandi Hills,29,Constituency,153
+201,Chesumei,29,Constituency,154
+202,Emgwen,29,Constituency,155
+203,Mosop,29,Constituency,156
+204,Tiaty,30,Constituency,157
+205,Baringo  North,30,Constituency,158
+206,Baringo Central,30,Constituency,159
+207,Baringo South,30,Constituency,160
+208,Mogotio,30,Constituency,161
+209,Eldama Ravine,30,Constituency,162
+210,Laikipia West,31,Constituency,163
+211,Laikipia East,31,Constituency,164
+212,Laikipia North,31,Constituency,165
+213,Molo,32,Constituency,166
+214,Njoro,32,Constituency,167
+215,Naivasha,32,Constituency,168
+216,Gilgil,32,Constituency,169
+217,Kuresoi South,32,Constituency,170
+218,Kuresoi North,32,Constituency,171
+219,Subukia,32,Constituency,172
+220,Rongai,32,Constituency,173
+221,Bahati,32,Constituency,174
+222,Nakuru Town West,32,Constituency,175
+223,Nakuru Town East,32,Constituency,176
+224,Kilgoris,33,Constituency,177
+225,Emurua Dikirr,33,Constituency,178
+226,Narok North,33,Constituency,179
+227,Narok East,33,Constituency,180
+228,Narok South,33,Constituency,181
+229,Narok West,33,Constituency,182
+230,Kajiado North,34,Constituency,183
+231,Kajiado Central,34,Constituency,184
+232,Kajiado East,34,Constituency,185
+233,Kajiado West,34,Constituency,186
+234,Kajiado South,34,Constituency,187
+235,Kipkelion East,35,Constituency,188
+236,Kipkelion West,35,Constituency,189
+237,Ainamoi,35,Constituency,190
+238,Bureti,35,Constituency,191
+239,Belgut,35,Constituency,192
+240,Sigowet/Soin,35,Constituency,193
+241,Sotik,36,Constituency,194
+242,Chepalungu,36,Constituency,195
+243,Bomet East,36,Constituency,196
+244,Bomet Central,36,Constituency,197
+245,Konoin,36,Constituency,198
+246,Lugari,37,Constituency,199
+247,Likuyani,37,Constituency,200
+248,Malava,37,Constituency,201
+249,Lurambi,37,Constituency,202
+250,Navakholo,37,Constituency,203
+251,Mumias West,37,Constituency,204
+252,Mumias East,37,Constituency,205
+253,Matungu,37,Constituency,206
+254,Butere,37,Constituency,207
+255,Khwisero,37,Constituency,208
+256,Shinyalu,37,Constituency,209
+257,Ikolomani,37,Constituency,210
+258,Vihiga,38,Constituency,211
+259,Sabatia,38,Constituency,212
+260,Hamisi,38,Constituency,213
+261,Luanda,38,Constituency,214
+262,Emuhaya,38,Constituency,215
+263,Mt.Elgon,39,Constituency,216
+264,Sirisia,39,Constituency,217
+265,Kabuchai,39,Constituency,218
+266,Bumula,39,Constituency,219
+267,Kanduyi,39,Constituency,220
+268,Webuye East,39,Constituency,221
+269,Webuye West,39,Constituency,222
+270,Kimilili,39,Constituency,223
+271,Tongaren,39,Constituency,224
+272,Teso North,40,Constituency,225
+273,Teso South,40,Constituency,226
+274,Nambale,40,Constituency,227
+275,Matayos,40,Constituency,228
+276,Butula,40,Constituency,229
+277,Funyula,40,Constituency,230
+278,Budalangi,40,Constituency,231
+279,Ugenya,41,Constituency,232
+280,Ugunja,41,Constituency,233
+281,Alego Usonga,41,Constituency,234
+282,Gem,41,Constituency,235
+283,Bondo,41,Constituency,236
+284,Rarieda,41,Constituency,237
+285,Kisumu East,42,Constituency,238
+286,Kisumu West,42,Constituency,239
+287,Kisumu Central,42,Constituency,240
+288,Seme,42,Constituency,241
+289,Nyando,42,Constituency,242
+290,Muhoroni,42,Constituency,243
+291,Nyakach,42,Constituency,244
+292,Kasipul,43,Constituency,245
+293,Kabondo Kasipul,43,Constituency,246
+294,Karachuonyo,43,Constituency,247
+295,Rangwe,43,Constituency,248
+296,Homa Bay Town,43,Constituency,249
+297,Ndhiwa,43,Constituency,250
+298,Mbita,43,Constituency,251
+299,Suba,43,Constituency,252
+300,Rongo,44,Constituency,253
+301,Awendo,44,Constituency,254
+302,Suna East,44,Constituency,255
+303,Suna West,44,Constituency,256
+304,Uriri,44,Constituency,257
+305,Nyatike,44,Constituency,258
+306,Kuria West,44,Constituency,259
+307,Kuria East,44,Constituency,260
+308,Bonchari,45,Constituency,261
+309,South Mugirango,45,Constituency,262
+310,Bomachoge Borabu,45,Constituency,263
+311,Bobasi,45,Constituency,264
+312,Bomachoge Chache,45,Constituency,265
+313,Nyaribari Masaba,45,Constituency,266
+314,Nyaribari Chache,45,Constituency,267
+315,Kitutu Chache North,45,Constituency,268
+316,Kitutu Chache South,45,Constituency,269
+317,Kitutu Masaba,46,Constituency,270
+318,West Mugirango,46,Constituency,271
+319,North Mugirango,46,Constituency,272
+320,Borabu,46,Constituency,273
+321,Westlands,47,Constituency,274
+322,Dagoretti North,47,Constituency,275
+323,Dagoretti South,47,Constituency,276
+324,Langata,47,Constituency,277
+325,Kibra,47,Constituency,278
+326,Roysambu,47,Constituency,279
+327,Kasarani,47,Constituency,280
+328,Ruaraka,47,Constituency,281
+329,Embakasi South,47,Constituency,282
+330,Embakasi North,47,Constituency,283
+331,Embakasi Central,47,Constituency,284
+332,Embakasi East,47,Constituency,285
+333,Embakasi West,47,Constituency,286
+334,Makadara,47,Constituency,287
+335,Kamukunji,47,Constituency,288
+336,Starehe,47,Constituency,289
+337,Mathare,47,Constituency,290
+338,Port Reitz,48,Ward,001
+339,Kipevu,48,Ward,002
+340,Airport,48,Ward,003
+341,Changamwe,48,Ward,004
+342,Chaani,48,Ward,005
+343,Jomvu Kuu,49,Ward,006
+344,Miritini,49,Ward,007
+345,Mikindani,49,Ward,008
+346,Mjambere,50,Ward,009
+347,Junda,50,Ward,010
+348,Bamburi,50,Ward,011
+349,Mwakirunge,50,Ward,012
+350,Mtopanga,50,Ward,013
+351,Magogoni,50,Ward,014
+352,Shanzu,50,Ward,015
+353,Frere Town,51,Ward,016
+354,Ziwa La Ng'ombe,51,Ward,017
+355,Mkomani,51,Ward,018
+356,Kongowea,51,Ward,019
+357,Kadzandani,51,Ward,020
+358,Mtongwe,52,Ward,021
+359,Shika Adabu,52,Ward,022
+360,Bofu,52,Ward,023
+361,Likoni,52,Ward,024
+362,Timbwani,52,Ward,025
+363,Mji Wa Kale/Makadara,53,Ward,026
+364,Tudor,53,Ward,027
+365,Tononoka,53,Ward,028
+366,Shimanzi/Ganjoni,53,Ward,029
+367,Majengo,53,Ward,030
+368,Gombatobongwe,54,Ward,031
+369,Ukunda,54,Ward,032
+370,Kinondo,54,Ward,033
+371,Ramisi,54,Ward,034
+372,Pongwekikoneni,55,Ward,035
+373,Dzombo,55,Ward,036
+374,Mwereni,55,Ward,037
+375,Vanga,55,Ward,038
+376,Tsimba Golini,56,Ward,039
+377,Waa,56,Ward,040
+378,Tiwi,56,Ward,041
+379,Kubo South,56,Ward,042
+380,Mkongani,56,Ward,043
+381,Nadavaya,57,Ward,044
+382,Puma,57,Ward,045
+383,Kinango,57,Ward,046
+384,Mackinnon-Road,57,Ward,047
+385,Chengoni/Samburu,57,Ward,048
+386,Mwavumbo,57,Ward,049
+387,Kasemeni,57,Ward,050
+388,Tezo,58,Ward,051
+389,Sokoni,58,Ward,052
+390,Kibarani,58,Ward,053
+391,Dabaso,58,Ward,054
+392,Matsangoni,58,Ward,055
+393,Watamu,58,Ward,056
+394,Mnarani,58,Ward,057
+395,Junju,59,Ward,058
+396,Mwarakaya,59,Ward,059
+397,Shimo La Tewa,59,Ward,060
+398,Chasimba,59,Ward,061
+399,Mtepeni,59,Ward,062
+400,Mariakani,60,Ward,063
+401,Kayafungo,60,Ward,064
+402,Kaloleni,60,Ward,065
+403,Mwanamwinga,60,Ward,066
+404,Mwawesa,61,Ward,067
+405,Ruruma,61,Ward,068
+406,Kambe/Ribe,61,Ward,069
+407,Rabai/Kisurutini,61,Ward,070
+408,Ganze,62,Ward,071
+409,Bamba,62,Ward,072
+410,Jaribuni,62,Ward,073
+411,Sokoke,62,Ward,074
+412,Jilore,63,Ward,075
+413,Kakuyuni,63,Ward,076
+414,Ganda,63,Ward,077
+415,Malindi Town,63,Ward,078
+416,Shella,63,Ward,079
+417,Marafa,64,Ward,080
+418,Magarini,64,Ward,081
+419,Gongoni,64,Ward,082
+420,Adu,64,Ward,083
+421,Garashi,64,Ward,084
+422,Sabaki,64,Ward,085
+423,Kipini East,65,Ward,086
+424,Garsen South,65,Ward,087
+425,Kipini West,65,Ward,088
+426,Garsen Central,65,Ward,089
+427,Garsen West,65,Ward,090
+428,Garsen North,65,Ward,091
+429,Kinakomba,66,Ward,092
+430,Mikinduni,66,Ward,093
+431,Chewani,66,Ward,094
+432,Wayu,66,Ward,095
+433,Chewele,67,Ward,096
+434,Bura,67,Ward,097
+435,Bangale,67,Ward,098
+436,Sala,67,Ward,099
+437,Madogo,67,Ward,100
+438,Faza,68,Ward,101
+439,Kiunga,68,Ward,102
+440,Basuba,68,Ward,103
+441,Shella,69,Ward,104
+442,Mkomani,69,Ward,105
+443,Hindi,69,Ward,106
+444,Mkunumbi,69,Ward,107
+445,Hongwe,69,Ward,108
+446,Witu,69,Ward,109
+447,Bahari,69,Ward,110
+448,Chala,70,Ward,111
+449,Mahoo,70,Ward,112
+450,Bomeni,70,Ward,113
+451,Mboghoni,70,Ward,114
+452,Mata,70,Ward,115
+453,Wundanyi/Mbale,71,Ward,116
+454,Werugha,71,Ward,117
+455,Wumingu/Kishushe,71,Ward,118
+456,Mwanda/Mgange,71,Ward,119
+457,Rong'e,72,Ward,120
+458,Mwatate,72,Ward,121
+459,Bura,72,Ward,122
+460,Chawia,72,Ward,123
+461,Wusi/Kishamba,72,Ward,124
+462,Mbololo,73,Ward,125
+463,Sagalla,73,Ward,126
+464,Kaloleni,73,Ward,127
+465,Marungu,73,Ward,128
+466,Kasigau,73,Ward,129
+467,Ngolia,73,Ward,130
+468,Waberi,74,Ward,131
+469,Galbet,74,Ward,132
+470,Township,74,Ward,133
+471,Iftin,74,Ward,134
+472,Balambala,75,Ward,135
+473,Danyere,75,Ward,136
+474,Jara Jara,75,Ward,137
+475,Saka,75,Ward,138
+476,Sankuri,75,Ward,139
+477,Modogashe,76,Ward,140
+478,Benane,76,Ward,141
+479,Goreale,76,Ward,142
+480,Maalimin,76,Ward,143
+481,Sabena,76,Ward,144
+482,Baraki,76,Ward,145
+483,Dertu,77,Ward,146
+484,Dadaab,77,Ward,147
+485,Labasigale,77,Ward,148
+486,Damajale,77,Ward,149
+487,Liboi,77,Ward,150
+488,Abakaile,77,Ward,151
+489,Bura,78,Ward,152
+490,Dekaharia,78,Ward,153
+491,Jarajila,78,Ward,154
+492,Fafi,78,Ward,155
+493,Nanighi,78,Ward,156
+494,Hulugho,79,Ward,157
+495,Sangailu,79,Ward,158
+496,Ijara,79,Ward,159
+497,Masalani,79,Ward,160
+498,Gurar,80,Ward,161
+499,Bute,80,Ward,162
+500,Korondile,80,Ward,163
+501,Malkagufu,80,Ward,164
+502,Batalu,80,Ward,165
+503,Danaba,80,Ward,166
+504,Godoma,80,Ward,167
+505,Wagberi,81,Ward,168
+506,Township,81,Ward,169
+507,Barwago,81,Ward,170
+508,Khorof/Harar,81,Ward,171
+509,Elben,82,Ward,172
+510,Sarman,82,Ward,173
+511,Tarbaj,82,Ward,174
+512,Wargadud,82,Ward,175
+513,Arbajahan,83,Ward,176
+514,Hadado/Athibohol,83,Ward,177
+515,Ademasajide,83,Ward,178
+516,Wagalla/Ganyure,83,Ward,179
+517,Eldas,84,Ward,180
+518,Della,84,Ward,181
+519,Lakoley South/Basir,84,Ward,182
+520,Elnur/Tula Tula,84,Ward,183
+521,Benane,85,Ward,184
+522,Burder,85,Ward,185
+523,Dadaja Bulla,85,Ward,186
+524,Habasswein,85,Ward,187
+525,Lagboghol South,85,Ward,188
+526,Ibrahim Ure,85,Ward,189
+527,Diif,85,Ward,190
+528,Takaba South,86,Ward,191
+529,Takaba,86,Ward,192
+530,Lag Sure,86,Ward,193
+531,Dandu,86,Ward,194
+532,Gither,86,Ward,195
+533,Banissa,87,Ward,196
+534,Derkhale,87,Ward,197
+535,Guba,87,Ward,198
+536,Malkamari,87,Ward,199
+537,Kiliwehiri,87,Ward,200
+538,Ashabito,88,Ward,201
+539,Guticha,88,Ward,202
+540,Morothile,88,Ward,203
+541,Rhamu,88,Ward,204
+542,Rhamu-Dimtu,88,Ward,205
+543,Wargudud,89,Ward,206
+544,Kutulo,89,Ward,207
+545,Elwak South,89,Ward,208
+546,Elwak North,89,Ward,209
+547,Shimbir Fatuma,89,Ward,210
+548,Arabia,90,Ward,211
+549,Bulla Mpya,90,Ward,212
+550,Khalalio,90,Ward,213
+551,Neboi,90,Ward,214
+552,Township,90,Ward,215
+553,Libehia,91,Ward,216
+554,Fino,91,Ward,217
+555,Lafey,91,Ward,218
+556,Warankara,91,Ward,219
+557,Alungo Gof,91,Ward,220
+558,Butiye,92,Ward,221
+559,Sololo,92,Ward,222
+560,Heilu-Manyatta,92,Ward,223
+561,Golbo,92,Ward,224
+562,Moyale Township,92,Ward,225
+563,Uran,92,Ward,226
+564,Obbu,92,Ward,227
+565,Dukana,93,Ward,228
+566,Maikona,93,Ward,229
+567,Turbi,93,Ward,230
+568,North Horr,93,Ward,231
+569,Illeret,93,Ward,232
+570,Sagante/Jaldesa,94,Ward,233
+571,Karare,94,Ward,234
+572,Marsabit Central,94,Ward,235
+573,Loiyangalani,95,Ward,236
+574,Kargi/South Horr,95,Ward,237
+575,Korr/Ngurunit,95,Ward,238
+576,Log Logo,95,Ward,239
+577,Laisamis,95,Ward,240
+578,Wabera,96,Ward,241
+579,Bulla Pesa,96,Ward,242
+580,Chari,96,Ward,243
+581,Cherab,96,Ward,244
+582,Ngare Mara,96,Ward,245
+583,Burat,96,Ward,246
+584,Oldonyiro,96,Ward,247
+585,Garbatulla,97,Ward,248
+586,Kinna,97,Ward,249
+587,Sericho,97,Ward,250
+588,Maua,98,Ward,251
+589,Kiegoi/Antubochiu,98,Ward,252
+590,Athiru Gaiti,98,Ward,253
+591,Akachiu,98,Ward,254
+592,Kanuni,98,Ward,255
+593,Akirang'ondu,99,Ward,256
+594,Athiru Ruujine,99,Ward,257
+595,Igembe East,99,Ward,258
+596,Njia,99,Ward,259
+597,Kangeta,99,Ward,260
+598,Antuambui,100,Ward,261
+599,Ntunene,100,Ward,262
+600,Antubetwe Kiongo,100,Ward,263
+601,Naathu,100,Ward,264
+602,Amwathi,100,Ward,265
+603,Athwana,101,Ward,266
+604,Akithii,101,Ward,267
+605,Kianjai,101,Ward,268
+606,Nkomo,101,Ward,269
+607,Mbeu,101,Ward,270
+608,Thangatha,102,Ward,271
+609,Mikinduri,102,Ward,272
+610,Kiguchwa,102,Ward,273
+611,Muthara,102,Ward,274
+612,Karama,102,Ward,275
+613,Municipality,103,Ward,276
+614,Ntima East,103,Ward,277
+615,Ntima West,103,Ward,278
+616,Nyaki West,103,Ward,279
+617,Nyaki East,103,Ward,280
+618,Timau,104,Ward,281
+619,Kisima,104,Ward,282
+620,Kiirua/Naari,104,Ward,283
+621,Ruiri/Rwarera,104,Ward,284
+622,Mwanganthia,105,Ward,285
+623,Abothuguchi Central,105,Ward,286
+624,Abothuguchi West,105,Ward,287
+625,Kiagu,105,Ward,288
+626,Kibirichia,104,Ward,289
+627,Mitunguu,106,Ward,290
+628,Igoji East,106,Ward,291
+629,Igoji West,106,Ward,292
+630,Abogeta East,106,Ward,293
+631,Abogeta West,106,Ward,294
+632,Nkuene,106,Ward,295
+633,Mitheru,107,Ward,296
+634,Muthambi,107,Ward,297
+635,Mwimbi,107,Ward,298
+636,Ganga,107,Ward,299
+637,Chogoria,107,Ward,300
+638,Mariani,108,Ward,301
+639,Karingani,108,Ward,302
+640,Magumoni,108,Ward,303
+641,Mugwe,108,Ward,304
+642,Igambang'ombe,108,Ward,305
+643,Gatunga,109,Ward,306
+644,Mukothima,109,Ward,307
+645,Nkondi,109,Ward,308
+646,Chiakariga,109,Ward,309
+647,Marimanti,109,Ward,310
+648,Ruguru/Ngandori,110,Ward,311
+649,Kithimu,110,Ward,312
+650,Nginda,110,Ward,313
+651,Mbeti North,110,Ward,314
+652,Kirimari,110,Ward,315
+653,Gaturi South,110,Ward,316
+654,Gaturi North,111,Ward,317
+655,Kagaari South,111,Ward,318
+656,Central  Ward,111,Ward,319
+657,Kagaari North,111,Ward,320
+658,Kyeni North,111,Ward,321
+659,Kyeni South,111,Ward,322
+660,Mwea,112,Ward,323
+661,Makima,112,Ward,324
+662,Mbeti South,112,Ward,325
+663,Mavuria,112,Ward,326
+664,Kiambere,112,Ward,327
+665,Nthawa,113,Ward,328
+666,Muminji,113,Ward,329
+667,Evurore,113,Ward,330
+668,Ngomeni,114,Ward,331
+669,Kyuso,114,Ward,332
+670,Mumoni,114,Ward,333
+671,Tseikuru,114,Ward,334
+672,Tharaka,114,Ward,335
+673,Kyome/Thaana,115,Ward,336
+674,Nguutani,115,Ward,337
+675,Migwani,115,Ward,338
+676,Kiomo/Kyethani,115,Ward,339
+677,Central,116,Ward,340
+678,Kivou,116,Ward,341
+679,Nguni,116,Ward,342
+680,Nuu,116,Ward,343
+681,Mui,116,Ward,344
+682,Waita,116,Ward,345
+683,Mutonguni,117,Ward,346
+684,Kauwi,117,Ward,347
+685,Matinyani,117,Ward,348
+686,Kwa Mutonga/Kithumula,117,Ward,349
+687,Kisasi,118,Ward,350
+688,Mbitini,118,Ward,351
+689,Kwavonza/Yatta,118,Ward,352
+690,Kanyangi,118,Ward,353
+691,Miambani,119,Ward,354
+692,Township,119,Ward,355
+693,Kyangwithya West,119,Ward,356
+694,Mulango,119,Ward,357
+695,Kyangwithya East,119,Ward,358
+696,Zombe/Mwitika,120,Ward,359
+697,Chuluni,120,Ward,360
+698,Nzambani,120,Ward,361
+699,Voo/Kyamatu,120,Ward,362
+700,Endau/Malalani,120,Ward,363
+701,Mutito/Kaliku,120,Ward,364
+702,Ikanga/Kyatune,121,Ward,365
+703,Mutomo,121,Ward,366
+704,Mutha,121,Ward,367
+705,Ikutha,121,Ward,368
+706,Kanziko,121,Ward,369
+707,Athi,121,Ward,370
+708,Kivaa,122,Ward,371
+709,Masinga Central,122,Ward,372
+710,Ekalakala,122,Ward,373
+711,Muthesya,122,Ward,374
+712,Ndithini,122,Ward,375
+713,Ndalani,123,Ward,376
+714,Matuu,123,Ward,377
+715,Kithimani,123,Ward,378
+716,Ikombe,123,Ward,379
+717,Katangi,123,Ward,380
+718,Kangundo North,124,Ward,381
+719,Kangundo Central,124,Ward,382
+720,Kangundo East,124,Ward,383
+721,Kangundo West,124,Ward,384
+722,Tala,125,Ward,385
+723,Matungulu North,125,Ward,386
+724,Matungulu East,125,Ward,387
+725,Matungulu West,125,Ward,388
+726,Kyeleni,125,Ward,389
+727,Mitaboni,126,Ward,390
+728,Kathiani Central,126,Ward,391
+729,Upper Kaewa/Iveti,126,Ward,392
+730,Lower Kaewa/Kaani,126,Ward,393
+731,Athi River,127,Ward,394
+732,Kinanie,127,Ward,395
+733,Muthwani,127,Ward,396
+734,Syokimau/Mulolongo,127,Ward,397
+735,Kalama,128,Ward,398
+736,Mua,128,Ward,399
+737,Mutituni,128,Ward,400
+738,Machakos Central,128,Ward,401
+739,Mumbuni North,128,Ward,402
+740,Muvuti/Kiima-Kimwe,128,Ward,403
+741,Kola,128,Ward,404
+742,Mbiuni,129,Ward,405
+743,Makutano/ Mwala,129,Ward,406
+744,Masii,129,Ward,407
+745,Muthetheni,129,Ward,408
+746,Wamunyu,129,Ward,409
+747,Kibauni,129,Ward,410
+748,Tulimani,130,Ward,411
+749,Mbooni,130,Ward,412
+750,Kithungo/Kitundu,130,Ward,413
+751,Kisau/Kiteta,130,Ward,414
+752,Waia/Kako,130,Ward,415
+753,Kalawa,130,Ward,416
+754,Kasikeu,131,Ward,417
+755,Mukaa,131,Ward,418
+756,Kiima Kiu/Kalanzoni,131,Ward,419
+757,Ukia,132,Ward,420
+758,Kee,132,Ward,421
+759,Kilungu,132,Ward,422
+760,Ilima,132,Ward,423
+761,Wote,133,Ward,424
+762,Muvau/Kikuumini,133,Ward,425
+763,Mavindini,133,Ward,426
+764,Kitise/Kithuki,133,Ward,427
+765,Kathonzweni,133,Ward,428
+766,Nzaui/Kilili/Kalamba,133,Ward,429
+767,Mbitini,133,Ward,430
+768,Makindu,134,Ward,431
+769,Nguumo,134,Ward,432
+770,Kikumbulyu North,134,Ward,433
+771,Kikumbulyu South,134,Ward,434
+772,Nguu/Masumba,134,Ward,435
+773,Emali/Mulala,134,Ward,436
+774,Masongaleni,135,Ward,437
+775,Mtito Andei,135,Ward,438
+776,Thange,135,Ward,439
+777,Ivingoni/Nzambani,135,Ward,440
+778,Engineer,136,Ward,441
+779,Gathara,136,Ward,442
+780,North Kinangop,136,Ward,443
+781,Murungaru,136,Ward,444
+782,Njabini\Kiburu,136,Ward,445
+783,Nyakio,136,Ward,446
+784,Githabai,136,Ward,447
+785,Magumu,136,Ward,448
+786,Wanjohi,137,Ward,449
+787,Kipipiri,137,Ward,450
+788,Geta,137,Ward,451
+789,Githioro,137,Ward,452
+790,Karau,138,Ward,453
+791,Kanjuiri Ridge,138,Ward,454
+792,Mirangine,138,Ward,455
+793,Kaimbaga,138,Ward,456
+794,Rurii,138,Ward,457
+795,Gathanji,139,Ward,458
+796,Gatimu,139,Ward,459
+797,Weru,139,Ward,460
+798,Charagita,139,Ward,461
+799,Leshau Pondo,140,Ward,462
+800,Kiriita,140,Ward,463
+801,Central,140,Ward,464
+802,Shamata,140,Ward,465
+803,Dedan Kimanthi,141,Ward,466
+804,Wamagana,141,Ward,467
+805,Aguthi/Gaaki,141,Ward,468
+806,Mweiga,142,Ward,469
+807,Naromoru Kiamathaga,142,Ward,470
+808,Mwiyogo/Endarasha,142,Ward,471
+809,Mugunda,142,Ward,472
+810,Gatarakwa,142,Ward,473
+811,Thegu River,142,Ward,474
+812,Kabaru,142,Ward,475
+813,Gakawa,142,Ward,476
+814,Ruguru,143,Ward,477
+815,Magutu,143,Ward,478
+816,Iriaini,143,Ward,479
+817,Konyu,143,Ward,480
+818,Kirimukuyu,143,Ward,481
+819,Karatina Town,143,Ward,482
+820,Mahiga,144,Ward,483
+821,Iria-Ini,144,Ward,484
+822,Chinga,144,Ward,485
+823,Karima,144,Ward,486
+824,Gikondi,145,Ward,487
+825,Rugi,145,Ward,488
+826,Mukurwe-Ini West,145,Ward,489
+827,Mukurwe-Ini Central,145,Ward,490
+828,Kiganjo/Mathari,146,Ward,491
+829,Rware,146,Ward,492
+830,Gatitu/Muruguru,146,Ward,493
+831,Ruring'u,146,Ward,494
+832,Kamakwa/Mukaro,146,Ward,495
+833,Mutithi,147,Ward,496
+834,Kangai,147,Ward,497
+835,Thiba,147,Ward,498
+836,Wamumu,147,Ward,499
+837,Nyangati,147,Ward,500
+838,Murinduko,147,Ward,501
+839,Gathigiriri,147,Ward,502
+840,Tebere,147,Ward,503
+841,Kabare,148,Ward,504
+842,Baragwi,148,Ward,505
+843,Njukiini,148,Ward,506
+844,Ngariama,148,Ward,507
+845,Karumandi,148,Ward,508
+846,Mukure,149,Ward,509
+847,Kiine,149,Ward,510
+848,Kariti,149,Ward,511
+849,Mutira,150,Ward,512
+850,Kanyeki-Ini,150,Ward,513
+851,Kerugoya,150,Ward,514
+852,Inoi,150,Ward,515
+853,Kanyenyaini,151,Ward,516
+854,Muguru,151,Ward,517
+855,Rwathia,151,Ward,518
+856,Gitugi,152,Ward,519
+857,Kiru,152,Ward,520
+858,Kamacharia,152,Ward,521
+859,Wangu,153,Ward,522
+860,Mugoiri,153,Ward,523
+861,Mbiri,153,Ward,524
+862,Township,153,Ward,525
+863,Murarandia,153,Ward,526
+864,Gaturi,153,Ward,527
+865,Kahumbu,154,Ward,528
+866,Muthithi,154,Ward,529
+867,Kigumo,154,Ward,530
+868,Kangari,154,Ward,531
+869,Kinyona,154,Ward,532
+870,Kimorori/Wempa,155,Ward,533
+871,Makuyu,155,Ward,534
+872,Kambiti,155,Ward,535
+873,Kamahuha,155,Ward,536
+874,Ichagaki,155,Ward,537
+875,Nginda,155,Ward,538
+876,Ng'araria,156,Ward,539
+877,Muruka,156,Ward,540
+878,Kagundu-Ini,156,Ward,541
+879,Gaichanjiru,156,Ward,542
+880,Ithiru,156,Ward,543
+881,Ruchu,156,Ward,544
+882,Ithanga,157,Ward,545
+883,Kakuzi/Mitubiri,157,Ward,546
+884,Mugumo-Ini,157,Ward,547
+885,Kihumbu-Ini,157,Ward,548
+886,Gatanga,157,Ward,549
+887,Kariara,157,Ward,550
+888,Kiamwangi,158,Ward,551
+889,Kiganjo,158,Ward,552
+890,Ndarugu,158,Ward,553
+891,Ngenda,158,Ward,554
+892,Gituamba,159,Ward,555
+893,Githobokoni,159,Ward,556
+894,Chania,159,Ward,557
+895,Mang'u,159,Ward,558
+896,Murera,160,Ward,559
+897,Theta,160,Ward,560
+898,Juja,160,Ward,561
+899,Witeithie,160,Ward,562
+900,Kalimoni,160,Ward,563
+901,Township,161,Ward,564
+902,Kamenu,161,Ward,565
+903,Hospital,161,Ward,566
+904,Gatuanyaga,161,Ward,567
+905,Ngoliba,161,Ward,568
+906,Gitothua,162,Ward,569
+907,Biashara,162,Ward,570
+908,Gatongora,162,Ward,571
+909,Kahawa Sukari,162,Ward,572
+910,Kahawa Wendani,162,Ward,573
+911,Kiuu,162,Ward,574
+912,Mwiki,162,Ward,575
+913,Mwihoko,162,Ward,576
+914,Githunguri,163,Ward,577
+915,Githiga,163,Ward,578
+916,Ikinu,163,Ward,579
+917,Ngewa,163,Ward,580
+918,Komothai,163,Ward,581
+919,Ting'ang'a,164,Ward,582
+920,Ndumberi,164,Ward,583
+921,Riabai,164,Ward,584
+922,Township,164,Ward,585
+923,Cianda,165,Ward,586
+924,Karuri,165,Ward,587
+925,Ndenderu,165,Ward,588
+926,Muchatha,165,Ward,589
+927,Kihara,165,Ward,590
+928,Gitaru,166,Ward,591
+929,Muguga,166,Ward,592
+930,Nyadhuna,166,Ward,593
+931,Kabete,166,Ward,594
+932,Uthiru,166,Ward,595
+933,Karai,167,Ward,596
+934,Nachu,167,Ward,597
+935,Sigona,167,Ward,598
+936,Kikuyu,167,Ward,599
+937,Kinoo,167,Ward,600
+938,Bibirioni,168,Ward,601
+939,Limuru Central,168,Ward,602
+940,Ndeiya,168,Ward,603
+941,Limuru East,168,Ward,604
+942,Ngecha Tigoni,168,Ward,605
+943,Kinale,169,Ward,606
+944,Kijabe,169,Ward,607
+945,Nyanduma,169,Ward,608
+946,Kamburu,169,Ward,609
+947,Lari/Kirenga,169,Ward,610
+948,Kaeris,170,Ward,611
+949,Lake Zone,170,Ward,612
+950,Lapur,170,Ward,613
+951,Kaaleng/Kaikor,170,Ward,614
+952,Kibish,170,Ward,615
+953,Nakalale,170,Ward,616
+954,Kakuma,171,Ward,617
+955,Lopur,171,Ward,618
+956,Letea,171,Ward,619
+957,Songot,171,Ward,620
+958,Kalobeyei,171,Ward,621
+959,Lokichoggio,171,Ward,622
+960,Nanaam,171,Ward,623
+961,Kerio Delta,172,Ward,624
+962,Kang'atotha,172,Ward,625
+963,Kalokol,172,Ward,626
+964,Lodwar Township,172,Ward,627
+965,Kanamkemer,172,Ward,628
+966,Kotaruk/Lobei,173,Ward,629
+967,Turkwel,173,Ward,630
+968,Loima,173,Ward,631
+969,Lokiriama/Lorengippi,173,Ward,632
+970,Kaputir,174,Ward,633
+971,Katilu,174,Ward,634
+972,Lobokat,174,Ward,635
+973,Kalapata,174,Ward,636
+974,Lokichar,174,Ward,637
+975,Kapedo/Napeitom,175,Ward,638
+976,Katilia,175,Ward,639
+977,Lokori/Kochodin,175,Ward,640
+978,Riwo,176,Ward,641
+979,Kapenguria,176,Ward,642
+980,Mnagei,176,Ward,643
+981,Siyoi,176,Ward,644
+982,Endugh,176,Ward,645
+983,Sook,176,Ward,646
+984,Sekerr,177,Ward,647
+985,Masool,177,Ward,648
+986,Lomut,177,Ward,649
+987,Weiwei,177,Ward,650
+988,Suam,178,Ward,651
+989,Kodich,178,Ward,652
+990,Kapckok,178,Ward,653
+991,Kasei,178,Ward,654
+992,Kiwawa,178,Ward,655
+993,Alale,178,Ward,656
+994,Chepareria,179,Ward,657
+995,Batei,179,Ward,658
+996,Lelan,179,Ward,659
+997,Tapach,179,Ward,660
+998,Lodokejek,180,Ward,661
+999,Suguta Marmar,180,Ward,662
+1000,Maralal,180,Ward,663
+1001,Loosuk,180,Ward,664
+1002,Poro,180,Ward,665
+1003,El-Barta,181,Ward,666
+1004,Nachola,181,Ward,667
+1005,Ndoto,181,Ward,668
+1006,Nyiro,181,Ward,669
+1007,Angata Nanyokie,181,Ward,670
+1008,Baawa,181,Ward,671
+1009,Waso,182,Ward,672
+1010,Wamba West,182,Ward,673
+1011,Wamba East,182,Ward,674
+1012,Wamba North,182,Ward,675
+1013,Kapomboi,183,Ward,676
+1014,Kwanza,183,Ward,677
+1015,Keiyo,183,Ward,678
+1016,Bidii,183,Ward,679
+1017,Chepchoina,184,Ward,680
+1018,Endebess,184,Ward,681
+1019,Matumbei,184,Ward,682
+1020,Kinyoro,185,Ward,683
+1021,Matisi,185,Ward,684
+1022,Tuwani,185,Ward,685
+1023,Saboti,185,Ward,686
+1024,Machewa,185,Ward,687
+1025,Kiminini,186,Ward,688
+1026,Waitaluk,186,Ward,689
+1027,Sirende,186,Ward,690
+1028,Hospital,186,Ward,691
+1029,Sikhendu,186,Ward,692
+1030,Nabiswa,186,Ward,693
+1031,Sinyerere,187,Ward,694
+1032,Makutano,187,Ward,695
+1033,Kaplamai,187,Ward,696
+1034,Motosiet,187,Ward,697
+1035,Cherangany/Suwerwa,187,Ward,698
+1036,Chepsiro/Kiptoror,187,Ward,699
+1037,Sitatunga,187,Ward,700
+1038,Moi's Bridge,188,Ward,701
+1039,Kapkures,188,Ward,702
+1040,Ziwa,188,Ward,703
+1041,Segero/Barsombe,188,Ward,704
+1042,Kipsomba,188,Ward,705
+1043,Soy,188,Ward,706
+1044,Kuinet/Kapsuswa,188,Ward,707
+1045,Ngenyilel,189,Ward,708
+1046,Tapsagoi,189,Ward,709
+1047,Kamagut,189,Ward,710
+1048,Kiplombe,189,Ward,711
+1049,Kapsaos,189,Ward,712
+1050,Huruma,189,Ward,713
+1051,Tembelio,190,Ward,714
+1052,Sergoit,190,Ward,715
+1053,Karuna/Meibeki,190,Ward,716
+1054,Moiben,190,Ward,717
+1055,Kimumu,190,Ward,718
+1056,Kapsoya,191,Ward,719
+1057,Kaptagat,191,Ward,720
+1058,Ainabkoi/Olare,191,Ward,721
+1059,Simat/Kapseret,192,Ward,722
+1060,Kipkenyo,192,Ward,723
+1061,Ngeria,192,Ward,724
+1062,Megun,192,Ward,725
+1063,Langas,192,Ward,726
+1064,Racecourse,193,Ward,727
+1065,Cheptiret/Kipchamo,193,Ward,728
+1066,Tulwet/Chuiyat,193,Ward,729
+1067,Tarakwa,193,Ward,730
+1068,Kapyego,194,Ward,731
+1069,Sambirir,194,Ward,732
+1070,Endo,194,Ward,733
+1071,Embobut / Embulot,194,Ward,734
+1072,Lelan,195,Ward,735
+1073,Sengwer,195,Ward,736
+1074,Cherang'any/Chebororwa,195,Ward,737
+1075,Moiben/Kuserwo,195,Ward,738
+1076,Kapsowar,195,Ward,739
+1077,Arror,195,Ward,740
+1078,Kamariny,196,Ward,741
+1079,Emsoo,196,Ward,742
+1080,Tambach,196,Ward,743
+1081,Kapchemutwa,196,Ward,744
+1082,Kaptarakwa,197,Ward,745
+1083,Chepkorio,197,Ward,746
+1084,Soy North,197,Ward,747
+1085,Soy South,197,Ward,748
+1086,Kabiemit,197,Ward,749
+1087,Metkei,197,Ward,750
+1088,Songhor/Soba,198,Ward,751
+1089,Tindiret,198,Ward,752
+1090,Chemelil/Chemase,198,Ward,753
+1091,Kapsimotwo,198,Ward,754
+1092,Kabwareng,199,Ward,755
+1093,Terik,199,Ward,756
+1094,Kemeloi-Maraba,199,Ward,757
+1095,Kobujoi,199,Ward,758
+1096,Kaptumo-Kaboi,199,Ward,759
+1097,Koyo-Ndurio,199,Ward,760
+1098,Nandi Hills,200,Ward,761
+1099,Chepkunyuk,200,Ward,762
+1100,Ol'lessos,200,Ward,763
+1101,Kapchorua,200,Ward,764
+1102,Chemundu/Kapng'etuny,201,Ward,765
+1103,Kosirai,201,Ward,766
+1104,Lelmokwo/Ngechek,201,Ward,767
+1105,Kaptel/Kamoiywo,201,Ward,768
+1106,Kiptuya,201,Ward,769
+1107,Chepkumia,202,Ward,770
+1108,Kapkangani,202,Ward,771
+1109,Kapsabet,202,Ward,772
+1110,Kilibwoni,202,Ward,773
+1111,Chepterwai,203,Ward,774
+1112,Kipkaren,203,Ward,775
+1113,Kurgung/Surungai,203,Ward,776
+1114,Kabiyet,203,Ward,777
+1115,Ndalat,203,Ward,778
+1116,Kabisaga,203,Ward,779
+1117,Sangalo/Kebulonik,203,Ward,780
+1118,Tirioko,204,Ward,781
+1119,Kolowa,204,Ward,782
+1120,Ribkwo,204,Ward,783
+1121,Silale,204,Ward,784
+1122,Loiyamorock,204,Ward,785
+1123,Tangulbei/Korossi,204,Ward,786
+1124,Churo/Amaya,204,Ward,787
+1125,Barwessa,205,Ward,788
+1126,Kabartonjo,205,Ward,789
+1127,Saimo/Kipsaraman,205,Ward,790
+1128,Saimo/Soi,205,Ward,791
+1129,Bartabwa,205,Ward,792
+1130,Kabarnet,206,Ward,793
+1131,Sacho,206,Ward,794
+1132,Tenges,206,Ward,795
+1133,Ewalel Chapchap,206,Ward,796
+1134,Kapropita,206,Ward,797
+1135,Marigat,207,Ward,798
+1136,Ilchamus,207,Ward,799
+1137,Mochongoi,207,Ward,800
+1138,Mukutani,207,Ward,801
+1139,Mogotio,208,Ward,802
+1140,Emining,208,Ward,803
+1141,Kisanana,208,Ward,804
+1142,Lembus,209,Ward,805
+1143,Lembus Kwen,209,Ward,806
+1144,Ravine,209,Ward,807
+1145,Mumberes/Maji Mazuri,209,Ward,808
+1146,Lembus/Perkerra,209,Ward,809
+1147,Koibatek,209,Ward,810
+1148,Olmoran,210,Ward,811
+1149,Rumuruti Township,210,Ward,812
+1150,Kinamba,210,Ward,813
+1151,Marmanet,210,Ward,814
+1152,Igwamiti,210,Ward,815
+1153,Salama,210,Ward,816
+1154,Ngobit,211,Ward,817
+1155,Tigithi,211,Ward,818
+1156,Thingithu,211,Ward,819
+1157,Nanyuki,211,Ward,820
+1158,Umande,211,Ward,821
+1159,Sosian,212,Ward,822
+1160,Segera,212,Ward,823
+1161,Mukogondo West,212,Ward,824
+1162,Mukogondo East,212,Ward,825
+1163,Mariashoni,213,Ward,826
+1164,Elburgon,213,Ward,827
+1165,Turi,213,Ward,828
+1166,Molo,213,Ward,829
+1167,Maunarok,214,Ward,830
+1168,Mauche,214,Ward,831
+1169,Kihingo,214,Ward,832
+1170,Nessuit,214,Ward,833
+1171,Lare,214,Ward,834
+1172,Njoro,214,Ward,835
+1173,Biashara,215,Ward,836
+1174,Hells Gate,215,Ward,837
+1175,Lakeview,215,Ward,838
+1176,Maai-Mahiu,215,Ward,839
+1177,Maiella,215,Ward,840
+1178,Olkaria,215,Ward,841
+1179,Naivasha East,215,Ward,842
+1180,Viwandani,215,Ward,843
+1181,Gilgil,216,Ward,844
+1182,Elementaita,216,Ward,845
+1183,Mbaruk/Eburu,216,Ward,846
+1184,Malewa West,216,Ward,847
+1185,Murindati,216,Ward,848
+1186,Amalo,217,Ward,849
+1187,Keringet,217,Ward,850
+1188,Kiptagich,217,Ward,851
+1189,Tinet,217,Ward,852
+1190,Kiptororo,218,Ward,853
+1191,Nyota,218,Ward,854
+1192,Sirikwa,218,Ward,855
+1193,Kamara,218,Ward,856
+1194,Subukia,219,Ward,857
+1195,Waseges,219,Ward,858
+1196,Kabazi,219,Ward,859
+1197,Menengai West,220,Ward,860
+1198,Soin,220,Ward,861
+1199,Visoi,220,Ward,862
+1200,Mosop,220,Ward,863
+1201,Solai,220,Ward,864
+1202,Dundori,221,Ward,865
+1203,Kabatini,221,Ward,866
+1204,Kiamaina,221,Ward,867
+1205,Lanet/Umoja,221,Ward,868
+1206,Bahati,221,Ward,869
+1207,Barut,222,Ward,870
+1208,London,222,Ward,871
+1209,Kaptembwo,222,Ward,872
+1210,Kapkures,222,Ward,873
+1211,Rhoda,222,Ward,874
+1212,Shaabab,222,Ward,875
+1213,Biashara,223,Ward,876
+1214,Kivumbini,223,Ward,877
+1215,Flamingo,223,Ward,878
+1216,Menengai,223,Ward,879
+1217,Nakuru East,223,Ward,880
+1218,Kilgoris Central,224,Ward,881
+1219,Keyian,224,Ward,882
+1220,Angata Barikoi,224,Ward,883
+1221,Shankoe,224,Ward,884
+1222,Kimintet,224,Ward,885
+1223,Lolgorian,224,Ward,886
+1224,Ilkerin,225,Ward,887
+1225,Ololmasani,225,Ward,888
+1226,Mogondo,225,Ward,889
+1227,Kapsasian,225,Ward,890
+1228,Olpusimoru,226,Ward,891
+1229,Olokurto,226,Ward,892
+1230,Narok Town,226,Ward,893
+1231,Nkareta,226,Ward,894
+1232,Olorropil,226,Ward,895
+1233,Melili,226,Ward,896
+1234,Mosiro,227,Ward,897
+1235,Ildamat,227,Ward,898
+1236,Keekonyokie,227,Ward,899
+1237,Suswa,227,Ward,900
+1238,Majimoto/Naroosura,228,Ward,901
+1239,Ololulung'a,228,Ward,902
+1240,Melelo,228,Ward,903
+1241,Loita,228,Ward,904
+1242,Sogoo,228,Ward,905
+1243,Sagamian,228,Ward,906
+1244,Ilmotiok,229,Ward,907
+1245,Mara,229,Ward,908
+1246,Siana,229,Ward,909
+1247,Naikarra,229,Ward,910
+1248,Olkeri,230,Ward,911
+1249,Ongata Rongai,230,Ward,912
+1250,Nkaimurunya,230,Ward,913
+1251,Oloolua,230,Ward,914
+1252,Ngong,230,Ward,915
+1253,Purko,231,Ward,916
+1254,Ildamat,231,Ward,917
+1255,Dalalekutuk,231,Ward,918
+1256,Matapato North,231,Ward,919
+1257,Matapato South,231,Ward,920
+1258,Kaputiei North,232,Ward,921
+1259,Kitengela,232,Ward,922
+1260,Oloosirkon/Sholinke,232,Ward,923
+1261,Kenyawa-Poka,232,Ward,924
+1262,Imaroro,232,Ward,925
+1263,Keekonyokie,233,Ward,926
+1264,Iloodokilani,233,Ward,927
+1265,Magadi,233,Ward,928
+1266,Ewuaso Oonkidong'i,233,Ward,929
+1267,Mosiro,233,Ward,930
+1268,Entonet/Lenkisim,234,Ward,931
+1269,Mbirikani/Eselenkei,234,Ward,932
+1270,Kuku,234,Ward,933
+1271,Rombo,234,Ward,934
+1272,Kimana,234,Ward,935
+1273,Londiani,235,Ward,936
+1274,Kedowa/Kimugul,235,Ward,937
+1275,Chepseon,235,Ward,938
+1276,Tendeno/Sorget,235,Ward,939
+1277,Kunyak,236,Ward,940
+1278,Kamasian,236,Ward,941
+1279,Kipkelion,236,Ward,942
+1280,Chilchila,236,Ward,943
+1281,Kapsoit,237,Ward,944
+1282,Ainamoi,237,Ward,945
+1283,Kapkugerwet,237,Ward,946
+1284,Kipchebor,237,Ward,947
+1285,Kipchimchim,237,Ward,948
+1286,Kapsaos,237,Ward,949
+1287,Kisiara,238,Ward,950
+1288,Tebesonik,238,Ward,951
+1289,Cheboin,238,Ward,952
+1290,Chemosot,238,Ward,953
+1291,Litein,238,Ward,954
+1292,Cheplanget,238,Ward,955
+1293,Kapkatet,238,Ward,956
+1294,Waldai,239,Ward,957
+1295,Kabianga,239,Ward,958
+1296,Cheptororiet/Seretut,239,Ward,959
+1297,Chaik,239,Ward,960
+1298,Kapsuser,239,Ward,961
+1299,Sigowet,240,Ward,962
+1300,Kaplelartet,240,Ward,963
+1301,Soliat,240,Ward,964
+1302,Soin,240,Ward,965
+1303,Ndanai/Abosi,241,Ward,966
+1304,Chemagel,241,Ward,967
+1305,Kipsonoi,241,Ward,968
+1306,Kapletundo,241,Ward,969
+1307,Rongena/Manaret,241,Ward,970
+1308,Kong'asis,242,Ward,971
+1309,Nyangores,242,Ward,972
+1310,Sigor,242,Ward,973
+1311,Chebunyo,242,Ward,974
+1312,Siongiroi,242,Ward,975
+1313,Merigi,243,Ward,976
+1314,Kembu,243,Ward,977
+1315,Longisa,243,Ward,978
+1316,Kipreres,243,Ward,979
+1317,Chemaner,243,Ward,980
+1318,Silibwet Township,244,Ward,981
+1319,Ndaraweta,244,Ward,982
+1320,Singorwet,244,Ward,983
+1321,Chesoen,244,Ward,984
+1322,Mutarakwa,244,Ward,985
+1323,Chepchabas,245,Ward,986
+1324,Kimulot,245,Ward,987
+1325,Mogogosiek,245,Ward,988
+1326,Boito,245,Ward,989
+1327,Embomos,245,Ward,990
+1328,Mautuma,246,Ward,991
+1329,Lugari,246,Ward,992
+1330,Lumakanda,246,Ward,993
+1331,Chekalini,246,Ward,994
+1332,Chevaywa,246,Ward,995
+1333,Lwandeti,246,Ward,996
+1334,Likuyani,247,Ward,997
+1335,Sango,247,Ward,998
+1336,Kongoni,247,Ward,999
+1337,Nzoia,247,Ward,1000
+1338,Sinoko,247,Ward,1001
+1339,West Kabras,248,Ward,1002
+1340,Chemuche,248,Ward,1003
+1341,East Kabras,248,Ward,1004
+1342,Butali/Chegulo,248,Ward,1005
+1343,Manda-Shivanga,248,Ward,1006
+1344,Shirugu-Mugai,248,Ward,1007
+1345,South Kabras,248,Ward,1008
+1346,Butsotso East,249,Ward,1009
+1347,Butsotso South,249,Ward,1010
+1348,Butsotso Central,249,Ward,1011
+1349,Sheywe,249,Ward,1012
+1350,Mahiakalo,249,Ward,1013
+1351,Shirere,249,Ward,1014
+1352,Ingostse-Mathia,250,Ward,1015
+1353,Shinoyi-Shikomari-,250,Ward,1016
+1354,Bunyala West,250,Ward,1017
+1355,Bunyala East,250,Ward,1018
+1356,Bunyala Central,250,Ward,1019
+1357,Mumias Central,251,Ward,1020
+1358,Mumias North,251,Ward,1021
+1359,Etenje,251,Ward,1022
+1360,Musanda,251,Ward,1023
+1361,Lubinu/Lusheya,252,Ward,1024
+1362,Isongo/Makunga/Malaha,252,Ward,1025
+1363,East Wanga,252,Ward,1026
+1364,Koyonzo,253,Ward,1027
+1365,Kholera,253,Ward,1028
+1366,Khalaba,253,Ward,1029
+1367,Mayoni,253,Ward,1030
+1368,Namamali,253,Ward,1031
+1369,Marama West,254,Ward,1032
+1370,Marama Central,254,Ward,1033
+1371,Marenyo - Shianda,254,Ward,1034
+1372,Marama North,254,Ward,1035
+1373,Marama South,254,Ward,1036
+1374,Kisa North,255,Ward,1037
+1375,Kisa East,255,Ward,1038
+1376,Kisa West,255,Ward,1039
+1377,Kisa Central,255,Ward,1040
+1378,Isukha North,256,Ward,1041
+1379,Murhanda,256,Ward,1042
+1380,Isukha Central,256,Ward,1043
+1381,Isukha South,256,Ward,1044
+1382,Isukha East,256,Ward,1045
+1383,Isukha West,256,Ward,1046
+1384,Idakho South,257,Ward,1047
+1385,Idakho East,257,Ward,1048
+1386,Idakho North,257,Ward,1049
+1387,Idakho Central,257,Ward,1050
+1388,Lugaga-Wamuluma,258,Ward,1051
+1389,South Maragoli,258,Ward,1052
+1390,Central Maragoli,258,Ward,1053
+1391,Mungoma,258,Ward,1054
+1392,Lyaduywa/Izava,259,Ward,1055
+1393,West Sabatia,259,Ward,1056
+1394,Chavakali,259,Ward,1057
+1395,North Maragoli,259,Ward,1058
+1396,Wodanga,259,Ward,1059
+1397,Busali,259,Ward,1060
+1398,Shiru,260,Ward,1061
+1399,Gisambai,260,Ward,1062
+1400,Shamakhokho,260,Ward,1063
+1401,Banja,260,Ward,1064
+1402,Muhudu,260,Ward,1065
+1403,Tambua,260,Ward,1066
+1404,Jepkoyai,260,Ward,1067
+1405,Luanda Township,261,Ward,1068
+1406,Wemilabi,261,Ward,1069
+1407,Mwibona,261,Ward,1070
+1408,Luanda South,261,Ward,1071
+1409,Emabungo,261,Ward,1072
+1410,North East Bunyore,262,Ward,1073
+1411,Central Bunyore,262,Ward,1074
+1412,West Bunyore,262,Ward,1075
+1413,Cheptais,263,Ward,1076
+1414,Chesikaki,263,Ward,1077
+1415,Chepyuk,263,Ward,1078
+1416,Kapkateny,263,Ward,1079
+1417,Kaptama,263,Ward,1080
+1418,Elgon,263,Ward,1081
+1419,Namwela,264,Ward,1082
+1420,Malakisi/South Kulisiru,264,Ward,1083
+1421,Lwandanyi,264,Ward,1084
+1422,Kabuchai/Chwele,265,Ward,1085
+1423,West Nalondo,265,Ward,1086
+1424,Bwake/Luuya,265,Ward,1087
+1425,Mukuyuni,265,Ward,1088
+1426,South Bukusu,266,Ward,1089
+1427,Bumula,266,Ward,1090
+1428,Khasoko,266,Ward,1091
+1429,Kabula,266,Ward,1092
+1430,Kimaeti,266,Ward,1093
+1431,West Bukusu,266,Ward,1094
+1432,Siboti,266,Ward,1095
+1433,Bukembe West,267,Ward,1096
+1434,Bukembe East,267,Ward,1097
+1435,Township,267,Ward,1098
+1436,Khalaba,267,Ward,1099
+1437,Musikoma,267,Ward,1100
+1438,East Sang'alo,267,Ward,1101
+1439,Marakaru/Tuuti,267,Ward,1102
+1440,Sang'alo West,267,Ward,1103
+1441,Mihuu,268,Ward,1104
+1442,Ndivisi,268,Ward,1105
+1443,Maraka,268,Ward,1106
+1444,Misikhu,269,Ward,1107
+1445,Sitikho,269,Ward,1108
+1446,Matulo,269,Ward,1109
+1447,Bokoli,269,Ward,1110
+1448,Kimilili,270,Ward,1111
+1449,Kibingei,270,Ward,1112
+1450,Maeni,270,Ward,1113
+1451,Kamukuywa,270,Ward,1114
+1452,Mbakalo,271,Ward,1115
+1453,Naitiri/Kabuyefwe,271,Ward,1116
+1454,Milima,271,Ward,1117
+1455,Ndalu/ Tabani,271,Ward,1118
+1456,Tongaren,271,Ward,1119
+1457,Soysambu/ Mitua,271,Ward,1120
+1458,Malaba Central,272,Ward,1121
+1459,Malaba North,272,Ward,1122
+1460,Ang'urai South,272,Ward,1123
+1461,Ang'urai North,272,Ward,1124
+1462,Ang'urai East,272,Ward,1125
+1463,Malaba South,272,Ward,1126
+1464,Ang'orom,273,Ward,1127
+1465,Chakol South,273,Ward,1128
+1466,Chakol North,273,Ward,1129
+1467,Amukura West,273,Ward,1130
+1468,Amukura East,273,Ward,1131
+1469,Amukura Central,273,Ward,1132
+1470,Nambale Township,274,Ward,1133
+1471,Bukhayo North/Waltsi,274,Ward,1134
+1472,Bukhayo East,274,Ward,1135
+1473,Bukhayo Central,274,Ward,1136
+1474,Bukhayo West,275,Ward,1137
+1475,Mayenje,275,Ward,1138
+1476,Matayos South,275,Ward,1139
+1477,Busibwabo,275,Ward,1140
+1478,Burumba,275,Ward,1141
+1479,Marachi West,276,Ward,1142
+1480,Kingandole,276,Ward,1143
+1481,Marachi Central,276,Ward,1144
+1482,Marachi East,276,Ward,1145
+1483,Marachi North,276,Ward,1146
+1484,Elugulu,276,Ward,1147
+1485,Namboboto Nambuku,277,Ward,1148
+1486,Nangina,277,Ward,1149
+1487,Ageng'a Nanguba,277,Ward,1150
+1488,Bwiri,277,Ward,1151
+1489,Bunyala Central,278,Ward,1152
+1490,Bunyala North,278,Ward,1153
+1491,Bunyala West,278,Ward,1154
+1492,Bunyala South,278,Ward,1155
+1493,West Ugenya,279,Ward,1156
+1494,Ukwala,279,Ward,1157
+1495,North Ugenya,279,Ward,1158
+1496,East Ugenya,279,Ward,1159
+1497,Sidindi,280,Ward,1160
+1498,Sigomere,280,Ward,1161
+1499,Ugunja,280,Ward,1162
+1500,Usonga,281,Ward,1163
+1501,West Alego,281,Ward,1164
+1502,Central Alego,281,Ward,1165
+1503,Siaya Township,281,Ward,1166
+1504,North Alego,281,Ward,1167
+1505,South East Alego,281,Ward,1168
+1506,North Gem,282,Ward,1169
+1507,West Gem,282,Ward,1170
+1508,Central Gem,282,Ward,1171
+1509,Yala Township,282,Ward,1172
+1510,East Gem,282,Ward,1173
+1511,South Gem,282,Ward,1174
+1512,West Yimbo,283,Ward,1175
+1513,Central Sakwa,283,Ward,1176
+1514,South Sakwa,283,Ward,1177
+1515,Yimbo East,283,Ward,1178
+1516,West Sakwa,283,Ward,1179
+1517,North Sakwa,283,Ward,1180
+1518,East Asembo,284,Ward,1181
+1519,West Asembo,284,Ward,1182
+1520,North Uyoma,284,Ward,1183
+1521,South Uyoma,284,Ward,1184
+1522,West Uyoma,284,Ward,1185
+1523,Kajulu,285,Ward,1186
+1524,Kolwa East,285,Ward,1187
+1525,Manyatta 'B',285,Ward,1188
+1526,Nyalenda 'A',285,Ward,1189
+1527,Kolwa Central,285,Ward,1190
+1528,South West Kisumu,286,Ward,1191
+1529,Central Kisumu,286,Ward,1192
+1530,Kisumu North,286,Ward,1193
+1531,West Kisumu,286,Ward,1194
+1532,North West Kisumu,286,Ward,1195
+1533,Railways,287,Ward,1196
+1534,Migosi,287,Ward,1197
+1535,Shaurimoyo Kaloleni,287,Ward,1198
+1536,Market Milimani,287,Ward,1199
+1537,Kondele,287,Ward,1200
+1538,Nyalenda B,287,Ward,1201
+1539,West Seme,288,Ward,1202
+1540,Central Seme,288,Ward,1203
+1541,East Seme,288,Ward,1204
+1542,North Seme,288,Ward,1205
+1543,East Kano/Wawidhi,289,Ward,1206
+1544,Awasi/Onjiko,289,Ward,1207
+1545,Ahero,289,Ward,1208
+1546,Kabonyo/Kanyagwal,289,Ward,1209
+1547,Kobura,289,Ward,1210
+1548,Miwani,290,Ward,1211
+1549,Ombeyi,290,Ward,1212
+1550,Masogo/Nyang'oma,290,Ward,1213
+1551,Chemelil,290,Ward,1214
+1552,Muhoroni/Koru,290,Ward,1215
+1553,South West Nyakach,291,Ward,1216
+1554,North Nyakach,291,Ward,1217
+1555,Central Nyakach,291,Ward,1218
+1556,West Nyakach,291,Ward,1219
+1557,South East Nyakach,291,Ward,1220
+1558,West Kasipul,292,Ward,1221
+1559,South Kasipul,292,Ward,1222
+1560,Central Kasipul,292,Ward,1223
+1561,East Kamagak,292,Ward,1224
+1562,West Kamagak,292,Ward,1225
+1563,Kabondo East,293,Ward,1226
+1564,Kabondo West,293,Ward,1227
+1565,Kokwanyo/Kakelo,293,Ward,1228
+1566,Kojwach,293,Ward,1229
+1567,West Karachuonyo,294,Ward,1230
+1568,North Karachuonyo,294,Ward,1231
+1569,Central,294,Ward,1232
+1570,Kanyaluo,294,Ward,1233
+1571,Kibiri,294,Ward,1234
+1572,Wangchieng,294,Ward,1235
+1573,Kendu Bay Town,294,Ward,1236
+1574,West Gem,295,Ward,1237
+1575,East Gem,295,Ward,1238
+1576,Kagan,295,Ward,1239
+1577,Kochia,295,Ward,1240
+1578,Homa Bay Central,296,Ward,1241
+1579,Homa Bay Arujo,296,Ward,1242
+1580,Homa Bay West,296,Ward,1243
+1581,Homa Bay East,296,Ward,1244
+1582,Kwabwai,297,Ward,1245
+1583,Kanyadoto,297,Ward,1246
+1584,Kanyikela,297,Ward,1247
+1585,North Kabuoch,297,Ward,1248
+1586,Kabuoch South/Pala,297,Ward,1249
+1587,Kanyamwa Kologi,297,Ward,1250
+1588,Kanyamwa Kosewe,297,Ward,1251
+1589,Mfangano Island,298,Ward,1252
+1590,Rusinga Island,298,Ward,1253
+1591,Kasgunga,298,Ward,1254
+1592,Gembe,298,Ward,1255
+1593,Lambwe,298,Ward,1256
+1594,Gwassi South,299,Ward,1257
+1595,Gwassi North,299,Ward,1258
+1596,Kaksingri West,299,Ward,1259
+1597,Ruma Kaksingri East,299,Ward,1260
+1598,North Kamagambo,300,Ward,1261
+1599,Central Kamagambo,300,Ward,1262
+1600,East Kamagambo,300,Ward,1263
+1601,South Kamagambo,300,Ward,1264
+1602,North Sakwa,301,Ward,1265
+1603,South Sakwa,301,Ward,1266
+1604,West Sakwa,301,Ward,1267
+1605,Central Sakwa,301,Ward,1268
+1606,God Jope,302,Ward,1269
+1607,Suna Central,302,Ward,1270
+1608,Kakrao,302,Ward,1271
+1609,Kwa,302,Ward,1272
+1610,Wiga,303,Ward,1273
+1611,Wasweta Ii,303,Ward,1274
+1612,Ragana-Oruba,303,Ward,1275
+1613,Wasimbete,303,Ward,1276
+1614,West Kanyamkago,304,Ward,1277
+1615,North Kanyamkago,304,Ward,1278
+1616,Central Kanyamkago,304,Ward,1279
+1617,South Kanyamkago,304,Ward,1280
+1618,East Kanyamkago,304,Ward,1281
+1619,Kachien'g,305,Ward,1282
+1620,Kanyasa,305,Ward,1283
+1621,North Kadem,305,Ward,1284
+1622,Macalder/Kanyarwanda,305,Ward,1285
+1623,Kaler,305,Ward,1286
+1624,Got Kachola,305,Ward,1287
+1625,Muhuru,305,Ward,1288
+1626,Bukira East,306,Ward,1289
+1627,Bukira Centrl/Ikerege,306,Ward,1290
+1628,Isibania,306,Ward,1291
+1629,Makerero,306,Ward,1292
+1630,Masaba,306,Ward,1293
+1631,Tagare,306,Ward,1294
+1632,Nyamosense/Komosoko,306,Ward,1295
+1633,Gokeharaka/Getambwega,307,Ward,1296
+1634,Ntimaru West,307,Ward,1297
+1635,Ntimaru East,307,Ward,1298
+1636,Nyabasi East,307,Ward,1299
+1637,Nyabasi West,307,Ward,1300
+1638,Bomariba,308,Ward,1301
+1639,Bogiakumu,308,Ward,1302
+1640,Bomorenda,308,Ward,1303
+1641,Riana,308,Ward,1304
+1642,Tabaka,309,Ward,1305
+1643,Boikang'a,309,Ward,1306
+1644,Bogetenga,309,Ward,1307
+1645,Borabu / Chitago,309,Ward,1308
+1646,Moticho,309,Ward,1309
+1647,Getenga,309,Ward,1310
+1648,Bombaba Borabu,310,Ward,1311
+1649,Boochi Borabu,310,Ward,1312
+1650,Bokimonge,310,Ward,1313
+1651,Magenche,310,Ward,1314
+1652,Masige West,311,Ward,1315
+1653,Masige East,311,Ward,1316
+1654,Bobasi Central,311,Ward,1317
+1655,Nyacheki,311,Ward,1318
+1656,Bobasi Bogetaorio,311,Ward,1319
+1657,Bobasi Chache,311,Ward,1320
+1658,Sameta/Mokwerero,311,Ward,1321
+1659,Bobasi Boitangare,311,Ward,1322
+1660,Majoge,312,Ward,1323
+1661,Boochi/Tendere,312,Ward,1324
+1662,Bosoti/Sengera,312,Ward,1325
+1663,Ichuni,313,Ward,1326
+1664,Nyamasibi,313,Ward,1327
+1665,Masimba,313,Ward,1328
+1666,Gesusu,313,Ward,1329
+1667,Kiamokama,313,Ward,1330
+1668,Bobaracho,314,Ward,1331
+1669,Kisii Central,314,Ward,1332
+1670,Keumbu,314,Ward,1333
+1671,Kiogoro,314,Ward,1334
+1672,Birongo,314,Ward,1335
+1673,Ibeno,314,Ward,1336
+1674,Monyerero,315,Ward,1337
+1675,Sensi,315,Ward,1338
+1676,Marani,315,Ward,1339
+1677,Kegogi,315,Ward,1340
+1678,Bogusero,316,Ward,1341
+1679,Bogeka,316,Ward,1342
+1680,Nyakoe,316,Ward,1343
+1681,Kitutu   Central,316,Ward,1344
+1682,Nyatieko,316,Ward,1345
+1683,Rigoma,317,Ward,1346
+1684,Gachuba,317,Ward,1347
+1685,Kemera,317,Ward,1348
+1686,Magombo,317,Ward,1349
+1687,Manga,317,Ward,1350
+1688,Gesima,317,Ward,1351
+1689,Nyamaiya,318,Ward,1352
+1690,Bogichora,318,Ward,1353
+1691,Bosamaro,318,Ward,1354
+1692,Bonyamatuta,318,Ward,1355
+1693,Township,318,Ward,1356
+1694,Itibo,319,Ward,1357
+1695,Bomwagamo,319,Ward,1358
+1696,Bokeira,319,Ward,1359
+1697,Magwagwa,319,Ward,1360
+1698,Ekerenyo,319,Ward,1361
+1699,Mekenene,320,Ward,1362
+1700,Kiabonyoru,320,Ward,1363
+1701,Nyansiongo,320,Ward,1364
+1702,Esise,320,Ward,1365
+1703,Kitisuru,321,Ward,1366
+1704,Parklands/Highridge,321,Ward,1367
+1705,Karura,321,Ward,1368
+1706,Kangemi,321,Ward,1369
+1707,Mountain View,321,Ward,1370
+1708,Kilimani,322,Ward,1371
+1709,Kawangware,322,Ward,1372
+1710,Gatina,322,Ward,1373
+1711,Kileleshwa,322,Ward,1374
+1712,Kabiro,322,Ward,1375
+1713,Mutuini,323,Ward,1376
+1714,Ngando,323,Ward,1377
+1715,Riruta,323,Ward,1378
+1716,Uthiru/Ruthimitu,323,Ward,1379
+1717,Waithaka,323,Ward,1380
+1718,Karen,324,Ward,1381
+1719,Nairobi West,324,Ward,1382
+1720,Mugumo-Ini,324,Ward,1383
+1721,South-C,324,Ward,1384
+1722,Nyayo Highrise,324,Ward,1385
+1723,Laini Saba,325,Ward,1386
+1724,Lindi,325,Ward,1387
+1725,Makina,325,Ward,1388
+1726,Woodley/Kenyatta  Golf,325,Ward,1389
+1727,Sarangombe,325,Ward,1390
+1728,Githurai,326,Ward,1391
+1729,Kahawa West,326,Ward,1392
+1730,Zimmerman,326,Ward,1393
+1731,Roysambu,326,Ward,1394
+1732,Kahawa,326,Ward,1395
+1733,Claycity,327,Ward,1396
+1734,Mwiki,327,Ward,1397
+1735,Kasarani,327,Ward,1398
+1736,Njiru,327,Ward,1399
+1737,Ruai,327,Ward,1400
+1738,Baba Dogo,328,Ward,1401
+1739,Utalii,328,Ward,1402
+1740,Mathare North,328,Ward,1403
+1741,Lucky Summer,328,Ward,1404
+1742,Korogocho,328,Ward,1405
+1743,Imara Daima,329,Ward,1406
+1744,Kwa Njenga,329,Ward,1407
+1745,Kwa Reuben,329,Ward,1408
+1746,Pipeline,329,Ward,1409
+1747,Kware,329,Ward,1410
+1748,Kariobangi North,330,Ward,1411
+1749,Dandora Area I,330,Ward,1412
+1750,Dandora Area Ii,330,Ward,1413
+1751,Dandora Area Iii,330,Ward,1414
+1752,Dandora Area Iv,330,Ward,1415
+1753,Kayole North,331,Ward,1416
+1754,Kayole Central,331,Ward,1417
+1755,Kayole South,331,Ward,1418
+1756,Komarock,331,Ward,1419
+1757,Matopeni,331,Ward,1420
+1758,Upper Savannah,332,Ward,1421
+1759,Lower Savannah,332,Ward,1422
+1760,Embakasi,332,Ward,1423
+1761,Utawala,332,Ward,1424
+1762,Mihango,332,Ward,1425
+1763,Umoja I,333,Ward,1426
+1764,Umoja Ii,333,Ward,1427
+1765,Mowlem,333,Ward,1428
+1766,Kariobangi South,333,Ward,1429
+1767,Maringo/Hamza,334,Ward,1430
+1768,Viwandani,334,Ward,1431
+1769,Harambee,334,Ward,1432
+1770,Makongeni,334,Ward,1433
+1771,Pumwani,335,Ward,1434
+1772,Eastleigh North,335,Ward,1435
+1773,Eastleigh South,335,Ward,1436
+1774,Airbase,335,Ward,1437
+1775,California,335,Ward,1438
+1776,Nairobi Central,336,Ward,1439
+1777,Ngara,336,Ward,1440
+1778,Ziwani/Kariokor,336,Ward,1441
+1779,Pangani,336,Ward,1442
+1780,Landimawe,336,Ward,1443
+1781,Nairobi South,336,Ward,1444
+1782,Hospital,337,Ward,1445
+1783,Mabatini,337,Ward,1446
+1784,Huruma,337,Ward,1447
+1785,Ngei,337,Ward,1448
+1786,Mlango Kubwa,337,Ward,1449
+1787,Kiamaiko,337,Ward,1450
