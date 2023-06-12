@@ -35,12 +35,12 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
 
 4. Installation:
 
-   - **Centos**: Follow the installation guide for CentOS by [linking to the CentOS installation readme](https://example.com/centos-installation-readme).
-   - **Nginx**: Install Nginx by referring to the [Nginx installation readme](https://example.com/nginx-installation-readme).
-   - **PHP**: Set up PHP by following the instructions in the [PHP installation readme](https://example.com/php-installation-readme).
+   - **Centos**: Follow the installation guide for CentOS by [linking to the CentOS installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/01_Centos/README.md).
+   - **Nginx**: Install Nginx by referring to the [Nginx installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/04_NGINX/README.md).
+   - **PHP**: Set up PHP by following the instructions in the [PHP installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/05_PHP/README.md).
    - **JavaScript**: No specific installation steps are required for JavaScript as it is a client-side language.
-   - **Asterisk**: Install and configure Asterisk by referring to the [Asterisk installation readme](https://example.com/asterisk-installation-readme).
-   - **MySQL**: Set up MySQL by following the instructions in the [MySQL installation readme](https://example.com/mysql-installation-readme).
+   - **Asterisk**: Install and configure Asterisk by referring to the [Asterisk installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/06_ASTERISK/README.md).
+   - **MySQL**: Set up MySQL by following the instructions in the [MySQL installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/03_Mysql/README.md).
 
    Once all the necessary components are installed, you can proceed with the application setup:
    
