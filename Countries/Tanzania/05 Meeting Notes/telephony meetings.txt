@@ -1,9 +1,0 @@
-Bokand ministry of communication 
-lotsho licheko - econnect 
-Kotso Molapo Econect 
-
-
-fibre pulled from Government / Fibre is terminitaed at its 4 Mbps .
-we need to configure a trunk between the call center and the PBX 
-sever is at the ministry / user will access the call tracking application via government network. 
-software based PABX ( asterisks) 
