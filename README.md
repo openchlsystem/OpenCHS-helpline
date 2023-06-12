@@ -132,7 +132,7 @@ Remember to provide any additional relevant details or instructions specific to 
 
    By following these contribution guidelines, we can maintain a high-quality project and foster a vibrant and inclusive community. We appreciate your contributions and look forward to working with you.
 
-   For more information, please refer to our full contribution guide [here](https://example.com/contribution-guide).
+   For more information, please refer to our full contribution guide [here](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/contribution.md).
 
    If you have any questions or need further assistance, please refer to the Support section or contact the project maintainers listed in the Authors section.
 
@@ -181,7 +181,7 @@ Remember to provide any additional relevant details or instructions specific to 
 
    For any questions, issues, or assistance related to our system, please feel free to reach out to our support team. You can contact us via email at [support@bitz-itc.com](mailto:support@bitz-itc.com).
 
-   Additionally, you can visit our [Support Page](https://example.com/support) for more information, FAQs, and resources to help you with common inquiries and troubleshooting.
+   Additionally, you can visit our [Support Page](https://bitz-itc.com/support) for more information, FAQs, and resources to help you with common inquiries and troubleshooting.
 
    Our support team is dedicated to providing timely and helpful responses to ensure a smooth experience with our system. We value your feedback and are committed to addressing any concerns you may have.
 
@@ -228,22 +228,22 @@ Remember to provide any additional relevant details or instructions specific to 
 
    Please note that this roadmap is a high-level overview and may be subject to adjustments based on changing priorities, emerging technologies, and user feedback. We are committed to delivering a robust, user-friendly, and impactful system that contributes to the well-being and safety of vulnerable children and victims of gender-based violence.
 
-   For more detailed updates and specific feature timelines, please refer to our [Roadmap Page](https://example.com/roadmap) on our project website.
+   For more detailed updates and specific feature timelines, please refer to our [Roadmap Page](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/roadmap.md) on our project website.
 
 ## Change Log
 
-   The change logs for our project are maintained separately. Please refer to the [Change Log Page](https://example.com/changelog) for a detailed history of changes, updates, and bug fixes made to the system.
+   The change logs for our project are maintained separately. Please refer to the [Change Log Page](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/changelog.md) for a detailed history of changes, updates, and bug fixes made to the system.
 
 ## Frequently Asked Questions (FAQs)
 
    1. **Q: How can I get started with the system?**
-      - A: To get started with the system, please refer to our [User Manual](https://example.com/user-manual) for detailed instructions on installation, setup, and usage.
+      - A: To get started with the system, please refer to our [User Manual](https://github.com/openchlsystem/OpenCHS-helpline/blob/ee05a424ae7a805310e49612c280c872e5ab897a/05_Training) for detailed instructions on installation, setup, and usage.
 
    2. **Q: Is technical support available for the system?**
-      - A: Yes, we provide technical support for our system. You can reach out to our support team by emailing [support@bitz-itc.com](mailto:support@bitz-itc.com) or visiting our [Support Page](https://example.com/support) for assistance.
+      - A: Yes, we provide technical support for our system. You can reach out to our support team by emailing [support@bitz-itc.com](mailto:support@bitz-itc.com) or visiting our [Support Page](https://bitz-itc.com/support) for assistance.
 
    3. **Q: Can I customize the system to fit my organization's requirements?**
-      - A: Yes, the system allows for customization. Please refer to the [Customization Guide](https://example.com/customization-guide) for instructions on modifying and adapting the system to meet your specific needs.
+      - A: Yes, the system allows for customization. Please refer to the [Customization Guide](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/customization.md) for instructions on modifying and adapting the system to meet your specific needs.
 
    4. **Q: Is there a limit on the number of users or data that the system can handle?**
       - A: The system is designed to be scalable and can handle a large number of users and data. However, specific limits may depend on factors such as server capacity and system configuration.
@@ -252,13 +252,13 @@ Remember to provide any additional relevant details or instructions specific to 
       - A: Our system is released under the [GNU General Public License v3.0](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/LICENSE). Please review the license terms for details on usage, redistribution, and any associated obligations.
 
    6. **Q: Can I integrate the system with other software or systems we use in our organization?**
-      - A: Yes, the system provides an open API that allows for integration with other software and systems. Please refer to the [API Documentation](https://example.com/api-docs) for more information on integration possibilities and available endpoints.
+      - A: Yes, the system provides an open API that allows for integration with other software and systems. Please refer to the [API Documentation](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/apidocs.md) for more information on integration possibilities and available endpoints.
 
    7. **Q: How often is the system updated?**
-      - A: We strive to provide regular updates and improvements to the system. Updates may include bug fixes, feature enhancements, and security patches. Please refer to our [Change Log Page](https://example.com/changelog) for a detailed history of changes.
+      - A: We strive to provide regular updates and improvements to the system. Updates may include bug fixes, feature enhancements, and security patches. Please refer to our [Change Log Page](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/changelog.md) for a detailed history of changes.
 
    8. **Q: Can I contribute to the development of the project?**
-      - A: Yes, we welcome contributions from the community. Please refer to the [Contributing Guidelines](https://example.com/contributing) for information on how to contribute, guidelines, and the process for submitting pull requests.
+      - A: Yes, we welcome contributions from the community. Please refer to the [Contributing Guidelines](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/07_Guides/contribution.md) for information on how to contribute, guidelines, and the process for submitting pull requests.
 
    9. **Q: What browsers are supported by the system?**
       - A: The system is compatible with modern web browsers such as Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge. Please ensure that you are using the latest version of your preferred browser for optimal performance.
