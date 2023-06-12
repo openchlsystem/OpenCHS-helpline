@@ -44,7 +44,23 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
 
    Once all the necessary components are installed, you can proceed with the application setup:
    
-   - Clone the application repository from [GitHub](https://github.com/your-repo) to your local machine.
+   - Clone the application repository from 
+      
+      - Step 1: Clone the repository
+         ```git clone <repository_url>```
+
+      - Step 2: Enable sparse checkout
+         ```cd <repository_directory>```
+
+         ```git sparse-checkout init```
+
+      - Step 3: Specify the "src" folder to include
+            ```git sparse-checkout set src```
+
+      - Step 4: Update your working directory
+            ```git pull```
+
+   <!-- -  to your local machine. -->
    - Configure the Nginx server to point to the application's root directory.
    - Import the MySQL database schema provided in the repository.
    - Update the necessary configuration files (if any) to reflect your environment settings.
@@ -74,7 +90,7 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
 
    - **Customization**: Tailor the system to meet the unique requirements and workflows of different helplines. Our project provides customization options, allowing helplines to configure the system according to their specific operational processes, data collection needs, and reporting preferences.
 
-   - **3rd Party Integrations**: Seamlessly integrate with other child protection systems and tools, including the [Mental Health and Psychosocial Support (MHPSS)](https://example.com/mhpss) platform. Our system facilitates data sharing, collaboration, and interoperability, enabling helplines to connect with relevant stakeholders and leverage existing resources more effectively.
+   - **3rd Party Integrations**: Seamlessly integrate with other child protection systems and tools, including the [Mental Health and Psychosocial Support (MHPSS)](https://emergency.unhcr.org/emergency-assistance/health-and-nutrition/mental-health-and-psychosocial-support) platform. Our system facilitates data sharing, collaboration, and interoperability, enabling helplines to connect with relevant stakeholders and leverage existing resources more effectively.
 
    These features collectively empower helplines in East Africa to streamline their operations, enhance data-driven decision-making, and improve their response to cases of violence against children and gender-based violence. The integration with other child protection systems further strengthens the collaboration and holistic approach in addressing the well-being of children and victims.
 
