@@ -1,16 +1,13 @@
 
-
 ## Acknowledgements
 
- - [UNICEF](https://www.unicef.org/)
- - [UNFPA]((https://www.unfpa.org/))
- - [ChildLine Kenya](https://childlinekenya.co.ke)
- - [Sauti Uganda ](https://sauti.mglsd.go.ug/sauti/)
- - [Sema Tanzania](https://www.sematanzania.org/child-helpline)
- - Child Helpline Lesotho
- - 
-
-
+- [UNICEF](https://www.unicef.org/)
+- [UNFPA]((https://www.unfpa.org/))
+- [ChildLine Kenya](https://childlinekenya.co.ke)
+- [Sauti Uganda ](https://sauti.mglsd.go.ug/sauti/)
+- [Sema Tanzania](https://www.sematanzania.org/child-helpline)
+- Child Helpline Lesotho
+-
 
 ## Demo
 
@@ -23,6 +20,7 @@ Password: p@ssw0rd
 # Level wise authentication
 
 # Admin User
+
 user TestAdmin
 
 Password: p@ssw0rd
@@ -39,7 +37,7 @@ user TestCaseManager
 
 Password: p@ssw0rd
 
-# Case Worker 
+# Case Worker
 
 user TestCaseWorker
 
@@ -57,17 +55,9 @@ user TestAgent
 
 Password: p@ssw0rd
 
-
-
-
 Additionally just open the following links. This will fire up the asterisks
 
-
-
-
 ## API Reference
-
-
 
 CRM REST API
 
@@ -178,10 +168,8 @@ INTRODUCTION	3
 
 10. Stats API	36
 
- 
-
 INTRODUCTION
-The REST API comprises of the following endpoints 
+The REST API comprises of the following endpoints
 
 1.	Authentication
 2.	Users
@@ -194,13 +182,11 @@ The REST API comprises of the following endpoints
 9.	Files
 10.	Stats
 
- 
 1. Authentication
 Authentication endpoint provides the following functions:
 1.	Login
 2.	User Change Own Password
 3.	Admin Reset User Password
-
 
 1.1 Login
 Allows a user to login using a username and password
@@ -209,23 +195,19 @@ REQUEST
 URL	POST /eproc/
 AUTH HEADER	XAuthorization: Basic Base64(username:password)
 
-
 RESPONSE  (Success)
 Return the session id (ss object) on successful login. The session-id will be used for subsequent API calls
 HTTP CODE	201
 FORMAT	application/json
 PAYLOAD	{
  "ss":[["nn6usn383g8mv5ta59er2vufc9","28", "admin", "99","1"]],
- “Profile”:[ … ] 
+ “Profile”:[ … ]
 }
-
-
 
 RESPONSE (Fail)
 HTTP CODE	401
 FORMAT	application/json
 PAYLOAD	{"errors":[["error","Authentication Required"]], "loggedoff":[["Auth"]] }
-
 
 1.2 User Change Own Password
 Allow a logged in user to change their password.
@@ -239,24 +221,20 @@ PARAMETERS	pass0:  current password
 pass1: new password
 pass2: confirm password
 
-
 RESPONSE  (Success)
 Return the session id (ss object) on successful login. The session-id will be used for subsequent API calls
 HTTP CODE	202
 FORMAT	application/json
 PAYLOAD	{
  "profile_nb":[["info","Password Changed"]]
- “Profile”:[ … ] 
+ “Profile”:[ … ]
 }
-
 
 RESPONSE  (Fail)
 HTTP CODE	412
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
 
-
- 
 1.3 Admin Reset Password
 
 The account is reset to default password of “callcenter”
@@ -268,32 +246,28 @@ CONTENT TYPE	Content-Type: application/json
 PAYLOAD	none
 PARAMETERS	none
 
-
 RESPONSE  (Success)
 Return the session id (ss object) on successful login. The session-id will be used for subsequent API calls
 HTTP CODE	202
 FORMAT	application/json
 PAYLOAD	{
  "users_nb":[["info","Password Reset"]]
- “Profile”:[ … ] 
+ “Profile”:[ … ]
 }
-
 
 RESPONSE  (Fail)
 HTTP CODE	412
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
 
-
- 
 2. Users
 Users endpoint provides the following functions:
 1.	Create User
 2.	Edit User
 3.	View User
 4.	List User
-5.	CSV Download 
-6.	Pivot reports 
+5.	CSV Download
+6.	Pivot reports
 
 2.1 Create User
 Allows an Admin to add a user to the CRM System
@@ -311,7 +285,6 @@ lname:  Last name
 phone:   Phone number
 email:   email address
 
-
 RESPONSE  (Success)
 
 HTTP CODE	201 Created
@@ -320,7 +293,6 @@ PAYLOAD	{
 "users_nb":[["info","User Created"]]
 “users”:[  { object } ] // echos back the created user object  
 }
-
 
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
@@ -344,8 +316,6 @@ REQUEST
 URL	GET /eproc/users/id
 AUTH HEADER	XAuthorization: Bearer session-id
 
-
-
 2.4 List Users
 Retrieves a list of  users
 
@@ -368,7 +338,6 @@ _a=30
 
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by id Descending
-
 
 2.5 CSV Download
 Download the list of  users in CSV Format
@@ -410,8 +379,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=role&yaxis=enabled
 
-
- 
 3. Tickets
 Tickets endpoint provides the following functions:
 1.	Create Ticket
@@ -442,22 +409,20 @@ narrative:  description of case
 resolution:  description of solution given
 status:   open | closed | escalated
 priority:   high | medium | low
-referred_to: 
+referred_to:
 escalated_to:  
 disposition: blank-call | call-disconnected | prank | call-completed | transfer
 
 Contact Fields
-fname: 
-lname: 
-phone: 
-email: 
-town: 
-country: 
-user_category: 
-position_in_org: 
-org_name: 
- 
-
+fname:
+lname:
+phone:
+email:
+town:
+country:
+user_category:
+position_in_org:
+org_name:
 
 RESPONSE  (Success)
 
@@ -468,13 +433,10 @@ PAYLOAD	{
 “tickets”:[  { object } ] // echos back the created ticket object  
 }
 
-
-
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
-
 
 3.2 Update Ticket
 Allows an Admin to edit a user record
@@ -486,16 +448,12 @@ CONTENT TYPE	Content-Type: application/json
 PAYLOAD	Same as Create Ticket
 PARAMETERS	Same as Create Ticket
 
-
-
 3.3 View Ticket
 Retrieves a single user record
 
 REQUEST
 URL	GET /eproc/tickets/id
 AUTH HEADER	XAuthorization: Bearer session-id
-
-
 
 3.4 List Tickets
 Retrieves a list of  Tickets
@@ -519,7 +477,6 @@ _a=30
 
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by ticket.id Descending  (most recent first)
-
 
 3.5 CSV Download
 Download the list of  Tickets in CSV Format
@@ -574,7 +531,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=status&yaxis=disposition
 
- 
 4. QA (Quality Assurance)
 QA endpoint provides the following functions:
 1.	Create QA
@@ -584,14 +540,14 @@ QA endpoint provides the following functions:
 5.	Pivot Reports
 
 4.1 Creates QA Record
-Creates a QA record attached to a call record. 
+Creates a QA record attached to a call record.
 On successful creation of a QA record, the call record is flagged as “qa_done”
 
 REQUEST
 URL	POST /eproc/qa
 AUTH HEADER	XAuthorization: Bearer session-id
 CONTENT TYPE	Content-Type: application/json
-PAYLOAD	{ 
+PAYLOAD	{
 “source”:”call”, “source_id”:”23231232”,  “opening”:”1”, “holding”:”1”, “politeness”:”1”, “enthusiasm”:”1”, “personalization”:”1”, “troubleshooting”:”1”, “listening”:”1”, “accuracy”:”1”, “resolution”:”1”, “comments”:”1”, “recomendations”:”1”
 }
 PARAMETERS	QA fields
@@ -600,7 +556,7 @@ source_id:    id of call
 opening:  a number between 1 and 5
 holding::  a number between 1 and 5
 politeness:  a number between 1 and 5  
-enthusiasm:  a number between 1 and 5 
+enthusiasm:  a number between 1 and 5
 personalization:  a number between 1 and 5
 troubleshooting:  a number between 1 and 5
 listening:  a number between 1 and 5
@@ -608,10 +564,6 @@ accuracy:  a number between 1 and 5
 resolution:  a number between 1 and 5
 comments:   text description
 recomendations:   text description
-
-
- 
-
 
 RESPONSE  (Success)
 
@@ -622,13 +574,10 @@ PAYLOAD	{
 “qa”:[  { object } ] // echos back the created qa object  
 }
 
-
-
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
-
 
 4.2 View QA
 Retrieves a single QA record
@@ -636,8 +585,6 @@ Retrieves a single QA record
 REQUEST
 URL	GET /eproc/qa/id
 AUTH HEADER	XAuthorization: Bearer session-id
-
-
 
 4.3 List QA
 Retrieves a list of  QAs
@@ -647,7 +594,7 @@ URL	GET /eproc/qa/
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the qa object. 
+GET parameter names should match any of the fields in the qa object.
 EG
 
 ?accuracy=1
@@ -663,7 +610,6 @@ _a=30
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by qa.id Descending (most recent first)
 
-
 4.4 CSV Download
 Download the list of  QA records in CSV Format
 
@@ -672,7 +618,7 @@ URL	GET /eproc/qa/?csv=1
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the qa object. 
+GET parameter names should match any of the fields in the qa object.
 EG
 
 ?accuracy=1
@@ -696,7 +642,7 @@ URL	GET /eproc/qa/rpt
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the qa object. 
+GET parameter names should match any of the fields in the qa object.
 EG
 
 ?accuracy=1
@@ -706,8 +652,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=chan_vector&yaxis=chan_usr
 
-
- 
 5. Queue Status
 The Queue Status endpoints provide the following functions:
 1.	Join Queue
@@ -715,7 +659,7 @@ The Queue Status endpoints provide the following functions:
 3.	Poll Queue Status
 
 5.1 Join Queue
-Enables an Agent to join a Call Queue. 
+Enables an Agent to join a Call Queue.
 This API invokes Asterisk to ring the agent’s extension. If the extension is online and call is answered, then the agent is added to the queue.
 
 REQUEST
@@ -725,22 +669,18 @@ CONTENT TYPE	Content-Type: application/json
 PAYLOAD	none
 PARAMETERS	none
 
-
 RESPONSE  (Success)
 HTTP CODE	200 OK
 FORMAT	application/json
 PAYLOAD	{ “status”:”ringing”, “message”:”Ringing”}
-
-
 
 RESPONSE (Fail)
 HTTP CODE	200 OK
 FORMAT	application/json
 PAYLOAD	{ “status”:”false”, “message”:”Error Message”}
 
-
 5.2 Leave Queue
-Enables an Agent to exit a Call Queue. 
+Enables an Agent to exit a Call Queue.
 
 This API invokes Asterisk to remove the agent’s extension from the call queue
 
@@ -751,21 +691,16 @@ CONTENT TYPE	Content-Type: application/json
 PAYLOAD	none
 PARAMETERS	none
 
-
 RESPONSE  (Success)
 HTTP CODE	200 OK
 FORMAT	application/json
 PAYLOAD	{ “status”:”offline”, “message”:”Offline”}
-
-
 
 RESPONSE (Fail)
 HTTP CODE	200 OK
 FORMAT	application/json
 PAYLOAD	{ “status”:”false”, “message”:”Error Message”}
 
-
- 
 5.3 Poll Queue Status
 This API return queue_login status
 
@@ -776,29 +711,25 @@ The following are the possible values for queue_status:
 -	wrapup
 -	ringing
 
-
 REQUEST
 URL	GET /eproc/
 AUTH HEADER	XAuthorization: Bearer session-id
 CONTENT TYPE	Content-Type: application/json
 
-
 RESPONSE
 HTTP CODE	200 OK
 FORMAT	application/json
-PAYLOAD	{ “profile”:[ 
+PAYLOAD	{ “profile”:[
    {  
       “status”:”online”,
-      “'message”:”Online”, 
-      “lastcall”:”08:00”, 
+      “'message”:”Online”,
+      “lastcall”:”08:00”,
       “data”:”callid-000123232323”,
        “phone”:”012203203230”,
       “context”:”queue_english”
     }
 ] }
 
-
- 
 6. Calls
 Calls API provides the following features
 1.	View Call
@@ -814,14 +745,12 @@ REQUEST
 URL	GET /eproc/calls/id
 AUTH HEADER	XAuthorization: Bearer session-id
 
-
 6.2 Download Call Recording
 Retrieves the call recording file for download
 
 REQUEST
 URL	GET /eproc/calls/id?file=wav
 AUTH HEADER	XAuthorization: Bearer session-id
-
 
 6.3 List Users
 Retrieves a list of  users
@@ -845,7 +774,6 @@ _a=30
 
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by id Descending
-
 
 6.4 CSV Download
 Download the list of  users in CSV Format
@@ -892,9 +820,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=usr&yaxis=hangup_status
 
-
-
- 
 7. Emails
 Emails endpoint provides the following functions:
 1.	Create Email (for sending)
@@ -915,8 +840,8 @@ REQUEST
 URL	POST /eproc/emails/
 AUTH HEADER	XAuthorization: Bearer session-id
 CONTENT TYPE	Content-Type: application/json
-PAYLOAD	{ 
-“subject”:”Test Email”, 
+PAYLOAD	{
+“subject”:”Test Email”,
 “msg”:”Hellow world”,  
 “recipients”:[
    {“contact_email”:”aaa@email.com”},
@@ -930,9 +855,7 @@ PAYLOAD	{
 PARAMETERS	subject:    String containing email subject
 msg:    String containing email message
 recipients:  array of email addresses - each encapsulated in a contact object
-attachments:  array of file_id already uploaded (see: 9:Files APi) 
-
-
+attachments:  array of file_id already uploaded (see: 9:Files APi)
 
 RESPONSE  (Success)
 
@@ -943,21 +866,17 @@ PAYLOAD	{
 “emails”:[  { object } ] // echos back the created email object  
 }
 
-
-
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
 
-
-7.2 View Email 
+7.2 View Email
 Retrieves a single Email record (note that the email body  need to be retrieved separately)
 
 REQUEST
 URL	GET /eproc/emails/id
 AUTH HEADER	XAuthorization: Bearer session-id
-
 
 7.3 View Email Body (mime: text/plain)
 Retrieves the email body in plain text format
@@ -966,7 +885,6 @@ REQUEST
 URL	GET /eproc/emails/id?file=plain
 AUTH HEADER	XAuthorization: Bearer session-id
 
-
 7.4 View Email Body (mime: text/html)
 Retrieves the email body in HTML format
 
@@ -974,15 +892,13 @@ REQUEST
 URL	GET /eproc/emails/id?file=html
 AUTH HEADER	XAuthorization: Bearer session-id
 
-
-7.5 View Email Attachment 
+7.5 View Email Attachment
 If the email contains attachments, View Email (see 7.2) will return a json array containing attachments objects.
 Each attachment object contains a file_id, which can be used to retrieve the file as follows:
 
 REQUEST
 URL	GET /eproc/files/id?file=1l
 AUTH HEADER	XAuthorization: Bearer session-id
-
 
 7.6 List Emails
 Retrieves a list of  Emails
@@ -992,7 +908,7 @@ URL	GET /eproc/emails/
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the email object. 
+GET parameter names should match any of the fields in the email object.
 EG
 
 ?subject=Test+Email
@@ -1008,7 +924,6 @@ _a=30
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by email.id Descending (most recent first)
 
-
 7.7 CSV Download
 Download the list of  Email records in CSV Format
 
@@ -1017,7 +932,7 @@ URL	GET /eproc/emails/?csv=1
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the email object. 
+GET parameter names should match any of the fields in the email object.
 EG
 
 ?subject=Test+Email
@@ -1041,7 +956,7 @@ URL	GET /eproc/emails/rpt
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the email object. 
+GET parameter names should match any of the fields in the email object.
 EG
 
 ?created_on=2020 Dec 15
@@ -1051,9 +966,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=folder&yaxis=status
 
-
-
- 
 8. SMS
 SMS endpoint provides the following functions:
 1.	Create SMS (for sending)
@@ -1071,7 +983,7 @@ REQUEST
 URL	POST /eproc/sms/
 AUTH HEADER	XAuthorization: Bearer session-id
 CONTENT TYPE	Content-Type: application/json
-PAYLOAD	{ 
+PAYLOAD	{
 “msg”:”Happy Holidays”,  
 “recipients”:[
    {“contact_phone”:”0700112233”},
@@ -1082,9 +994,6 @@ PAYLOAD	{
 PARAMETERS	msg:    String containing SMS message
 recipients:  array of phone numbers - each encapsulated in a contact object
 
-
-
-
 RESPONSE  (Success)
 
 HTTP CODE	201 Created
@@ -1094,21 +1003,17 @@ PAYLOAD	{
 “sms”:[  { object } ] // echos back the created sms object  
 }
 
-
-
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
 FORMAT	application/json
 PAYLOAD	{ "errors":[["error", "Error Message", "ERROR_TYPE", "table-name", ”table-row”, "field-name"] ]}
 
-
-8.2 View SMS 
-Retrieves a single SMS record 
+8.2 View SMS
+Retrieves a single SMS record
 
 REQUEST
 URL	GET /eproc/sms/id
 AUTH HEADER	XAuthorization: Bearer session-id
-
 
 8.3 List SMSes
 Retrieves a list of  SMSes
@@ -1118,7 +1023,7 @@ URL	GET /eproc/sms/
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the sms object. 
+GET parameter names should match any of the fields in the sms object.
 EG
 
 ?status=SENT
@@ -1134,7 +1039,6 @@ _a=30
 Where 30 specify to skip first 30 records
 SORTING	The records are sort by sms.id Descending (most recent first)
 
-
 8.4 CSV Download
 Download the list of  SMS records in CSV Format
 
@@ -1143,7 +1047,7 @@ URL	GET /eproc/sms/?csv=1
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the sms object. 
+GET parameter names should match any of the fields in the sms object.
 EG
 
 ?status=SENT
@@ -1167,7 +1071,7 @@ URL	GET /eproc/sms/rpt
 AUTH HEADER	XAuthorization: Bearer session-id
 FILTER PARAMS	Filter parameters are specified using GET parameters.
 
-GET parameter names should match any of the fields in the sms object. 
+GET parameter names should match any of the fields in the sms object.
 EG
 
 ?created_on=2020-Dec-1 to 2020-Dec-20
@@ -1177,9 +1081,6 @@ GROUP FORMAT	To specify group field append a comma separated list to xaxis (or y
 
 xaxis=folder&yaxis=status
 
-
-
- 
 9. Files
 Files endpoint provides the following functions:
 1.	Upload file
@@ -1198,7 +1099,6 @@ CONTENT TYPE	Content-Type: multipart/form-data
 PAYLOAD	The file contents
 PARAMETERS	file[]
 
-
 RESPONSE  (Success)
 HTTP CODE	201 Created
 FORMAT	application/json
@@ -1206,7 +1106,6 @@ PAYLOAD	{
 "files_nb":[["info","File Created"]]
 “files”:[  { object } ] // echos back the created file meta data
 }
-
 
 RESPONSE (Fail)
 HTTP CODE	412 Invalid Data
@@ -1219,10 +1118,8 @@ REQUEST
 URL	GET /eproc/files/id?file=1
 AUTH HEADER	XAuthorization: Bearer session-id
 
-
 RESPONSE
 Returns the actual file from CRM Repository
-
 
 10. Stats API
 This endpoints return the stats for:
@@ -1232,12 +1129,9 @@ This endpoints return the stats for:
 4.	Total Emails
 5.	Total SMS
 
-
 REQUEST
 URL	GET /eproc/stats/0
 AUTH HEADER	XAuthorization: Bearer session-id
-
-
 
 ## Documentation
 
@@ -1258,9 +1152,8 @@ Configuring Asterisk	8
 Conclusion	9
 Technical Manual Sign-Off	10
 
- 
 1.	Introduction
-The solution is made up of two main components and a number of dependencies as described here. The two main parts are: Case Management Systems (CMS) and Call Module powered by Asterisk. 
+The solution is made up of two main components and a number of dependencies as described here. The two main parts are: Case Management Systems (CMS) and Call Module powered by Asterisk.
 Asterisk runs best on Linux based operating systems and Centos 8 is recommended for this solution. All descriptions related to this version shall be based:
 -	Centos 8
 -	Nginx
@@ -1272,7 +1165,7 @@ To setup the solution, install the following and their dependencies. It is advis
 In our case, we will use Nginx web server
 In order to install Nginx, we’ll use the dnf package manager, which is the new default package manager on CentOS 8.
 Install the nginx package with:
-sudo dnf install nginx 
+sudo dnf install nginx
 Enable and start the server:
 sudo systemctl enable nginx
 sudo systemctl start nginx
@@ -1280,7 +1173,7 @@ sudo systemctl start nginx
 Check on the browser with your domain IP or using 127.0.0.1 if on current computer. The service runs on port 80 by default. You should be able to get a Nginx welcome page as below if the server is correctly and successfully installed.
   
 Configuring Nginx
-Nginx can host several web application in different drectories and different domains. Since we have one application for our case, we will install our application on Nginx root folder. The default Nginx root directory is 
+Nginx can host several web application in different drectories and different domains. Since we have one application for our case, we will install our application on Nginx root folder. The default Nginx root directory is
 
 /usr/share/nginx/html
 
@@ -1307,22 +1200,20 @@ server {
                 try_files $uri $uri/ =404;
         }
 }
- 
 
 To make sure that there are no syntax errors in any of your Nginx files, run:
 sudo nginx -t
- 
+
 Once your configuration test passes, restart Nginx to enable your changes:
 sudo systemctl restart nginx
- 
- 
+
 With this and CMS installation, the application will be available on the local IP and the domain on condition that the domain and the local server IP have been mapped to a public IP.
 Also, for php to work with nginx, install php-fpm with the following command:
-sudo systemctl enable php-fpm 
+sudo systemctl enable php-fpm
 
 sudo systemctl start php-fpm
 Configure php-fpm listen to php-fpm.sock in /etc/php-fpm.d/www.conf. The default path for the sock file is /var/run/php-fpm/php-fpm.sock
-2.2 Install MySQL 
+2.2 Install MySQL
 Run the following command to install the mysql-server package and a number of its dependencies:
 sudo dnf install mysql-server
 With that, MySQL is installed on the server but it isn’t yet operational. The package you just installed configures MySQL to run as a systemd service named mysqld.service. In order to use MySQL, there is need to start.
@@ -1332,7 +1223,7 @@ sudo systemctl enable mysqld
 To secure MySQL, run the following commands and follow the prompts.
 sudo mysql_secure_installation
 This will enable one to set a password for the root user, however, it is recommended not to run the system with MySQL root user
-2.3 Install PHP 
+2.3 Install PHP
 The installed web server can execute files which do not need compilations such as html files, php compiler will need to be installed for php files to be executed on the server.
 To install the php and php-mysqlnd packages using the dnf package manager, run:
 sudo dnf install php php-mysqlnd
@@ -1366,7 +1257,7 @@ cd asterisk-16-current
 Resolve any dependency issue that may cause the ./configure to fail then use the following command to select the desired asterisk menu items.
 make menuselect
 This command will have a screen like this:
- 
+
 To compile Asterisk, simply type make at the Linux command line.
 make
 Then install Asterisk using the following command:
@@ -1389,7 +1280,7 @@ ca.crt
 ca.key
 tmp.cfg
 Configuring Asterisk
-To meet the system requirements for optimal operations, follow the following configuration steps with the respective parameters 
+To meet the system requirements for optimal operations, follow the following configuration steps with the respective parameters
 To communicate with WebSocket clients, Asterisk uses its built-in HTTP server. Configure /etc/asterisk/http.conf as follows:
 [general]
 enabled=yes
@@ -1413,7 +1304,7 @@ auth_type=userpass
 username=webrtc_client
 password=webrtc_client ; This is a completely insecure password!  Do NOT expose this
                        ; system to the Internet without utilizing a better password.
- 
+
 [webrtc_client]
 type=endpoint
 aors=webrtc_client
@@ -1450,9 +1341,11 @@ nohup ./muu &
 
 ii.	When the call records are not updating but the calls have no issues in receiving and creating cases, run the following command on the terminal.
 curl http://localhost:7374/rpt/
+
 # helpline
 
 # Used By
+
 This Project is used by the following countries to manage their child Helpline system :
 
 -Childline Kenya
@@ -1463,13 +1356,13 @@ This Project is used by the following countries to manage their child Helpline s
 
 -Sema - Child Helpline Tanzania
 
-# User Instruction 
+# User Instruction
+
 <h1><a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Login to OPENCHS </a></h1>
 <div><b>Date:</b> June 20, 2022</div>
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -1487,13 +1380,11 @@ This Project is used by the following countries to manage their child Helpline s
 <a href="https://app.tango.us/app/workflow/a95f3a1d-c698-4105-8aa0-7e9518a9218b?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
 
-
 <h1><a href="https://app.tango.us/app/workflow/a2a61139-e7c9-453a-b53c-8d76cfb067cc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Joining Queue and Creating a Reporter  </a></h1>
 <div><b>Date:</b> June 20, 2022</div>
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/a2a61139-e7c9-453a-b53c-8d76cfb067cc?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -1600,7 +1491,6 @@ This Project is used by the following countries to manage their child Helpline s
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/676099df-e525-4eb2-9be4-dd41ec1e2feb?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -1762,13 +1652,11 @@ This Project is used by the following countries to manage their child Helpline s
 <a href="https://app.tango.us/app/workflow/676099df-e525-4eb2-9be4-dd41ec1e2feb?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
 
-
 <h1><a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Adding Perpetrator Details </a></h1>
 <div><b>Date:</b> June 20, 2022</div>
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -1894,13 +1782,11 @@ This Project is used by the following countries to manage their child Helpline s
 <a href="https://app.tango.us/app/workflow/dbe3e275-9cba-4ab2-a916-85a2db9ef1b3?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
 
-
 <h1><a href="https://app.tango.us/app/workflow/a77995d5-de64-4783-bb22-9b2b9572024a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Creating  case </a></h1>
 <div><b>Date:</b> June 20, 2022</div>
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/a77995d5-de64-4783-bb22-9b2b9572024a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -1995,13 +1881,11 @@ This Project is used by the following countries to manage their child Helpline s
 <a href="https://app.tango.us/app/workflow/a77995d5-de64-4783-bb22-9b2b9572024a?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
 
-
 <h1><a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Editing a Case </a></h1>
 <div><b>Date:</b> June 20, 2022</div>
 <div><b>Author:</b> Nelson Adagi</div>
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
-
 
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
@@ -2037,7 +1921,6 @@ This Project is used by the following countries to manage their child Helpline s
 <div><b>Source:</b> <a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank">Tango</a></div>
 <hr/>
 
-
 <div><h3>1. <a href="https://openchs.bitz-itc.com/helpline/" target="_blank">Go to Helpline</a></h3>
 </div>
 
@@ -2065,4 +1948,3 @@ This Project is used by the following countries to manage their child Helpline s
 <div>
 <a href="https://app.tango.us/app/workflow/894ebda8-a664-4c31-92fc-8189505f5888?utm_source=magicCopy&utm_medium=magicCopy&utm_campaign=workflow%20export%20links" target="_blank"><em>This workflow was created with Tango.</em></a>
 </div>
-

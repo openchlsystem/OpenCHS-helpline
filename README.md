@@ -1,8 +1,7 @@
 
 # OpenCHS  
 
-## The Child Helpline Case Management 
-
+## The Child Helpline Case Management
 
 Our project aims to provide a comprehensive solution for helplines in East Africa, specifically addressing the critical issue of Violence Against Children (VAC) and Gender-Based Violence (GBV). By utilizing our system, helplines can efficiently collect, store, and analyze data related to these pressing societal concerns.
 
@@ -12,8 +11,7 @@ Through advanced data analysis techniques, our system empowers helplines to iden
 
 Overall, our project serves as a vital tool in the fight against Violence Against Children and Gender-Based Violence, empowering helplines in East Africa to make informed decisions, drive positive change, and ultimately work towards creating safer and more inclusive communities.
 
-
-## Table of Contents:
+## Table of Contents
 
 - Installation
 - Usage
@@ -30,7 +28,6 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
 - Related Projects
 - Authors
 
-
 ## Installation
 
 4. Installation:
@@ -43,9 +40,9 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
    - **MySQL**: Set up MySQL by following the instructions in the [MySQL installation readme](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/03_Deployment/03_Mysql/README.md).
 
    Once all the necessary components are installed, you can proceed with the application setup:
-   
-   - Clone the application repository from 
-      
+
+   - Clone the application repository from
+
       - Step 1: Clone the repository
          ```git clone <repository_url>```
 
@@ -70,9 +67,8 @@ Overall, our project serves as a vital tool in the fight against Violence Agains
    Additional instructions or dependencies specific to your application may be mentioned in the repository's README or installation guide. Be sure to refer to those for a complete and accurate installation process.
 
    For any further assistance or troubleshooting, please refer to the Support section or contact the project maintainers listed in the Authors section.
-## Usage 
 
-
+## Usage
 
 ## Features
 
@@ -106,34 +102,33 @@ Remember to provide any additional relevant details or instructions specific to 
 
    In addition to the project's documentation and features, we provide several additional resources to support your usage and understanding of the system:
 
-   - **User Manual**: Our comprehensive user manual provides detailed instructions on how to navigate the system, utilize its features, and perform various tasks. Access the user manual [here](https://example.com/user-manual) to gain a deeper understanding of the system's functionalities and maximize its potential.
+   - **User Manual**: Our comprehensive user manual provides detailed instructions on how to navigate the system, utilize its features, and perform various tasks. Access the user manual [here](https://github.com/openchlsystem/OpenCHS-helpline/tree/main/05_Training) to gain a deeper understanding of the system's functionalities and maximize its potential.
 
-   - **API Documentation for MHPPS Integration**: If you're looking to integrate our system with the Mental Health and Psychosocial Support (MHPPS) platform, we have dedicated API documentation available. This documentation outlines the endpoints, request/response formats, authentication methods, and data exchange procedures for seamless integration. Explore the API documentation [here](https://example.com/api-docs-mhpps) to facilitate the integration process.
+   - **API Documentation for MHPPS Integration**: If you're looking to integrate our system with the Mental Health and Psychosocial Support (MHPPS) platform, we have dedicated API documentation available. This documentation outlines the endpoints, request/response formats, authentication methods, and data exchange procedures for seamless integration. Explore the API documentation [here](https://documenter.getpostman.com/view/21578213/2s83zdvkcH) to facilitate the integration process.
 
-   - **Presentation Slides**: To further understand the project's scope, features, and potential impact, we have prepared presentation slides that provide an overview of the system and its capabilities. Review the presentation slides [here](https://example.com/presentation-slides) to gain insights and share the information with relevant stakeholders.
+   - **Presentation Slides**: To further understand the project's scope, features, and potential impact, we have prepared presentation slides that provide an overview of the system and its capabilities. Review the presentation slides [here](https://github.com/openchlsystem/OpenCHS-helpline/blob/main/05_Training/OPENCHS-PITCHDECK.mp4) to gain insights and share the information with relevant stakeholders.
 
    These additional resources will complement the project's documentation and assist you in effectively utilizing the system, integrating with MHPPS, and conveying its value to others.
 
    For any further questions or support, please refer to the Support section or contact the project maintainers listed in the Authors section.
 
-
-## Contributing:
+## Contributing
 
    We welcome contributions to enhance and improve our project. Whether you're a developer, designer, or a domain expert, you can contribute in various ways. To ensure a smooth and collaborative process, please follow these guidelines when contributing to our project:
 
-   - **Fork the repository**: Start by forking the project repository to your GitHub account. This will create a copy of the project that you can freely modify.
+- **Fork the repository**: Start by forking the project repository to your GitHub account. This will create a copy of the project that you can freely modify.
 
-   - **Branching strategy**: Create a new branch for your contributions. It's recommended to use a descriptive name that reflects the purpose of your changes or feature.
+- **Branching strategy**: Create a new branch for your contributions. It's recommended to use a descriptive name that reflects the purpose of your changes or feature.
 
-   - **Coding standards**: Adhere to our coding standards and best practices. Maintain consistent code formatting, ensure proper documentation, and follow any specific guidelines mentioned in the repository.
+- **Coding standards**: Adhere to our coding standards and best practices. Maintain consistent code formatting, ensure proper documentation, and follow any specific guidelines mentioned in the repository.
 
-   - **Committing changes**: Make atomic commits that capture logical units of work. Provide clear and concise commit messages that describe the changes made.
+- **Committing changes**: Make atomic commits that capture logical units of work. Provide clear and concise commit messages that describe the changes made.
 
-   - **Pull requests**: When you're ready to contribute your changes, submit a pull request from your branch to the main repository's `main` branch. Include a detailed description of the changes and any relevant context.
+- **Pull requests**: When you're ready to contribute your changes, submit a pull request from your branch to the main repository's `main` branch. Include a detailed description of the changes and any relevant context.
 
-   - **Issue tracking**: If you encounter any issues or have ideas for improvements, feel free to open an issue on our GitHub repository. Provide a clear title, description, and, if possible, steps to reproduce the issue.
+- **Issue tracking**: If you encounter any issues or have ideas for improvements, feel free to open an issue on our GitHub repository. Provide a clear title, description, and, if possible, steps to reproduce the issue.
 
-   - **Code review**: We value collaboration and constructive feedback. Be open to code reviews and address any comments or suggestions provided by the project maintainers or other contributors.
+- **Code review**: We value collaboration and constructive feedback. Be open to code reviews and address any comments or suggestions provided by the project maintainers or other contributors.
 
    By following these contribution guidelines, we can maintain a high-quality project and foster a vibrant and inclusive community. We appreciate your contributions and look forward to working with you.
 
@@ -141,8 +136,7 @@ Remember to provide any additional relevant details or instructions specific to 
 
    If you have any questions or need further assistance, please refer to the Support section or contact the project maintainers listed in the Authors section.
 
-
-## License:
+## License
 
    Our project is released under the GNU General Public License v3.0 (GPL-3.0), which is a widely used open-source license. This license grants you certain rights to use, modify, and distribute the software, while also ensuring that these rights are preserved for others who use or modify the software.
 
@@ -156,28 +150,22 @@ Remember to provide any additional relevant details or instructions specific to 
 
    Please note that this is a brief description of the GNU General Public License v3.0 (GPL-3.0) and its relevance to our project. It is not intended as legal advice, and we recommend consulting the full license text for complete and accurate information.
 
-
-
 ## Acknowledgements
 
- - [UNICEF](https://www.unicef.org/)
- - [UNFPA]((https://www.unfpa.org/))
- - [ChildLine Kenya](https://childlinekenya.co.ke)
- - [Sauti Uganda ](https://sauti.mglsd.go.ug/sauti/)
- - [Sema Tanzania](https://www.sematanzania.org/child-helpline)
- - Child Helpline Lesotho
-
-
-
-   10. Acknowledgments:
+- [UNICEF](https://www.unicef.org/)
+- [UNFPA]((https://www.unfpa.org/))
+- [ChildLine Kenya](https://childlinekenya.co.ke)
+- [Sauti Uganda](https://sauti.mglsd.go.ug/sauti/)
+- [Sema Tanzania](https://www.sematanzania.org/child-helpline)
+- Child Helpline Lesotho
 
    We would like to express our gratitude to the following open-source projects and libraries that have contributed to the success of our system:
 
-   - [SIP.js](https://sipjs.com/): SIP.js is a powerful JavaScript library that provides a simple and intuitive way to implement Session Initiation Protocol (SIP) communication in web applications. It has been instrumental in enabling voice communication features within our system.
+  - [SIP.js](https://sipjs.com/): SIP.js is a powerful JavaScript library that provides a simple and intuitive way to implement Session Initiation Protocol (SIP) communication in web applications. It has been instrumental in enabling voice communication features within our system.
 
-   - [Chart.js](https://www.chartjs.org/): Chart.js is a versatile JavaScript library for creating interactive and visually appealing charts and graphs. It has greatly facilitated the implementation of data visualization features in our system, enabling users to gain valuable insights from their data.
+  - [Chart.js](https://www.chartjs.org/): Chart.js is a versatile JavaScript library for creating interactive and visually appealing charts and graphs. It has greatly facilitated the implementation of data visualization features in our system, enabling users to gain valuable insights from their data.
 
-   - [SimpleXLSXGen](https://github.com/shuchkin/simplexlsxgen): SimpleXLSXGen is a lightweight PHP library for generating Excel files. We have leveraged this library to provide support for exporting and importing data in Excel format, enhancing the data management capabilities of our system.
+  - [SimpleXLSXGen](https://github.com/shuchkin/simplexlsxgen): SimpleXLSXGen is a lightweight PHP library for generating Excel files. We have leveraged this library to provide support for exporting and importing data in Excel format, enhancing the data management capabilities of our system.
 
    We extend our appreciation to the developers and contributors of these projects for their hard work, dedication, and the open-source spirit that powers their creations. Without their valuable contributions, our system would not have been as feature-rich and efficient as it is.
 
@@ -189,8 +177,7 @@ Remember to provide any additional relevant details or instructions specific to 
 
    If you have any questions or need further information regarding the acknowledgments or the usage of these projects in our system, please refer to the Support section or contact the project maintainers listed in the Authors section.
 
-
-## Support:
+## Support
 
    For any questions, issues, or assistance related to our system, please feel free to reach out to our support team. You can contact us via email at [support@bitz-itc.com](mailto:support@bitz-itc.com).
 
@@ -210,46 +197,44 @@ Remember to provide any additional relevant details or instructions specific to 
 
    Thank you for choosing our system and allowing us to be of service to you!
 
-## Roadmap:
+## Roadmap
 
    Our project roadmap outlines the key milestones and planned features for the future development of our system. It aims to address various aspects, including shift management, business intelligence, and the implementation of an open API. The roadmap is subject to change based on user feedback and evolving requirements. Here are the major milestones:
 
-   - **Phase 1: Foundation and Core Functionality**
-      - Develop the core functionality of the system, including helpline call management, case management, and data collection for violence against children and gender-based violence.
-      - Implement shift management features to efficiently manage helpline staff schedules and ensure continuous coverage.
-      - Establish a secure and scalable infrastructure to support the system's growth.
+- **Phase 1: Foundation and Core Functionality**
+  - Develop the core functionality of the system, including helpline call management, case management, and data collection for violence against children and gender-based violence.
+  - Implement shift management features to efficiently manage helpline staff schedules and ensure continuous coverage.
+  - Establish a secure and scalable infrastructure to support the system's growth.
 
-   - **Phase 2: Enhancing User Experience and Business Intelligence**
-      - Improve the user experience by incorporating user feedback and conducting usability testing.
-      - Enhance the reporting capabilities to provide comprehensive business intelligence insights, enabling data-driven decision-making.
-      - Implement advanced analytics features to identify trends, patterns, and key performance indicators.
+- **Phase 2: Enhancing User Experience and Business Intelligence**
+  - Improve the user experience by incorporating user feedback and conducting usability testing.
+  - Enhance the reporting capabilities to provide comprehensive business intelligence insights, enabling data-driven decision-making.
+  - Implement advanced analytics features to identify trends, patterns, and key performance indicators.
 
-   - **Phase 3: Integration and Interoperability**
-      - Develop an open API that enables seamless integration with other child protection systems, including the MHHPS, to promote data sharing and collaboration.
-      - Explore integration possibilities with third-party systems and services to extend the functionality and value of our system.
-      - Ensure compatibility and compliance with relevant data protection and privacy regulations.
+- **Phase 3: Integration and Interoperability**
+  - Develop an open API that enables seamless integration with other child protection systems, including the MHHPS, to promote data sharing and collaboration.
+  - Explore integration possibilities with third-party systems and services to extend the functionality and value of our system.
+  - Ensure compatibility and compliance with relevant data protection and privacy regulations.
 
-   - **Phase 4: Customization and Scalability**
-      - Provide customization options to cater to specific organizational requirements and workflows.
-      - Scale the system to handle increased user load and growing data volumes while maintaining optimal performance.
-      - Continuously optimize and fine-tune the system based on user feedback and emerging technologies.
+- **Phase 4: Customization and Scalability**
+  - Provide customization options to cater to specific organizational requirements and workflows.
+  - Scale the system to handle increased user load and growing data volumes while maintaining optimal performance.
+  - Continuously optimize and fine-tune the system based on user feedback and emerging technologies.
 
-   - **Phase 5: Community Engagement and Continuous Improvement**
-      - Foster an active user community by organizing webinars, conferences, and knowledge sharing sessions.
-      - Regularly update the system with new features, bug fixes, and security enhancements based on user feedback and emerging industry standards.
-      - Collaborate with stakeholders, partners, and the open-source community to drive innovation and address evolving needs in the child protection domain.
+- **Phase 5: Community Engagement and Continuous Improvement**
+  - Foster an active user community by organizing webinars, conferences, and knowledge sharing sessions.
+  - Regularly update the system with new features, bug fixes, and security enhancements based on user feedback and emerging industry standards.
+  - Collaborate with stakeholders, partners, and the open-source community to drive innovation and address evolving needs in the child protection domain.
 
    Please note that this roadmap is a high-level overview and may be subject to adjustments based on changing priorities, emerging technologies, and user feedback. We are committed to delivering a robust, user-friendly, and impactful system that contributes to the well-being and safety of vulnerable children and victims of gender-based violence.
 
    For more detailed updates and specific feature timelines, please refer to our [Roadmap Page](https://example.com/roadmap) on our project website.
 
-
-## Change Log:
+## Change Log
 
    The change logs for our project are maintained separately. Please refer to the [Change Log Page](https://example.com/changelog) for a detailed history of changes, updates, and bug fixes made to the system.
 
-
-## Frequently Asked Questions (FAQs):
+## Frequently Asked Questions (FAQs)
 
    1. **Q: How can I get started with the system?**
       - A: To get started with the system, please refer to our [User Manual](https://example.com/user-manual) for detailed instructions on installation, setup, and usage.
