@@ -1,0 +1,15 @@
+Step 1
+
+ cp -r helpline /var/www/html/.
+
+Step 2
+
+ cp tz2_config.php /var/www/.
+
+
+Step 3
+   mysql -e "create database helpline"
+
+Step 4
+   mysql helpline < helpline_schema.sql
+
