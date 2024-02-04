@@ -342,6 +342,8 @@ $pmessages_k=array("id"=>0,
 "dt"=>25,
 "dth"=>26,
 "h"=>27,
+"dispositions"=>28,
+"contacts"=>29,
 NULL);
 
 $messages_k=array("id"=>0,
