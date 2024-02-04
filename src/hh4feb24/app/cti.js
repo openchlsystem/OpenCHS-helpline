@@ -138,7 +138,7 @@ te["call_add_form"] = { div:["","ve"], c:
                         		// { uchk:["tag",null,"","^", null,null,null,null,null] } // set if there is a default user
                         	]},
                         	{ div:["d w02 x t"],  c:[ { div:["h02 w02 awb"] } ] },
-                        	{ div:["e"], arg:["_c","","10"] }
+                        	{ div:["e"], c:[ { arg:["_c","","10"] }, { arg:["exten","",""] }, { ufn:["users_online_ufn"] } ] } // limit to users who are online
                 	]} ]},
                 	{ div:["dd w30 gw ba_b","vdd"], ev:["_undd"] },
 		]},
@@ -397,6 +397,18 @@ te["agent_status"] = { div:["y02",null], c:
 ]};
 
 // -------------------------------------------------------
+
+function users_online_ufn (el, u, a, r, m)
+{
+	var kk = Object.keys (re["peers"]);
+	var v = "";
+	for (var k=0; k<kk.length; k++)
+	{
+		if (k>0) v+",";
+		v+=kk[k];
+	}
+	el.lastChild.value = v;
+}
 
 function call_popup_end (ts)
 {

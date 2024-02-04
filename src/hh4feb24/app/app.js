@@ -1560,6 +1560,8 @@ function rxmsg (ev)
 {
         if (document.getElementById ("user_cid")==null) return;
 
+        // console.error (ev.data)
+        
         var o = JSON.parse (ev.data);
 
         if (o.ra_ts)

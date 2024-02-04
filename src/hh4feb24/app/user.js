@@ -243,7 +243,7 @@ te["user_ls_footer"] = { div:["x gws mt"], c:
 
 te["user_ls_r"] = { ac:["ay ","","_sel","x cb",""], c:
 [
-	{ div:["c x tt"], c:[ { div:[":v:users:exten::peers:43:0"], s:["w01 h01 gws bd",""] } ] },
+	{ div:["c x tt"], c:[ { div:[":v:users:exten::peers:0"], s:["w01 h01 gws bd",""] } ] },
 	{ div:["c"], s:["x y07 h01_","%5"] },
 	{ div:["d"], s:["x y07 h01_ tr","::user_role:6:1"] },
 	// { div:["d"], s:["x h01_ y07 tr","%7"] },
@@ -253,6 +253,7 @@ te["user_ls_r"] = { ac:["ay ","","_sel","x cb",""], c:
 te["user_ls_k"] = { div:["g"], c:
 [
 	{ arg:["","role",":k:users_k:role:2"] },
+	{ arg:["","exten",":k:users_k:exten:2"] },
 	{ p:["","e"], c:[ { arg:["","_c","%1"] } ] }
 ]};
 
