@@ -531,7 +531,7 @@ function call_popup (el, f=0)
 	var s = "-1?src=" + a.src + "&src_uid=" + a.src_uid; 
 	if (r_[k["src_address"][0]].length>0)  
 	{
-		s += "&contact_phone="+r_[k["src_address"][0]];
+		s += "&src_address="+r_[k["src_address"][0]];
 	}
 
 	nd (coll[1], te["call_toolbar"], [], r_, [0]); // show toolbar	
