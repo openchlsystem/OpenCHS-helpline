@@ -461,7 +461,7 @@ VOICEAPPS_UA.on_invite = function (session)
 	
 	console.log ("[on_invite] "+ dn+" | "+JSON.stringify (session.remoteIdentity))
 		
-	if (dn=="Autodial" || dn=="AgentLogin")
+	if (dn=="Autodial" || dn=="AgentLogin" || dn=="Supervisor")
 	{
 		session.accept ();
 	}

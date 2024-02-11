@@ -10,7 +10,7 @@ update kase set assigned_to_id=escalated_to_id WHERE escalated_to_id!=0;
 update kase set escalated_by_id= ///5
 */
 
-$FN = ["sendOTP"=>1, "verifyOTP"=>1, "resetAuth"=>1, "changeAuth"=>1, "dash"=>1, "wallonly"=>1, "agent"=>1, "chan"=>1, "msg"=>1, "msg_end"=>1]; // non-crud endpoints
+$FN = ["sendOTP"=>1, "verifyOTP"=>1, "resetAuth"=>1, "changeAuth"=>1, "dash"=>1, "wallonly"=>1, "agent"=>1, "chan"=>1, "sup"=>1, "msg"=>1, "msg_end"=>1]; // non-crud endpoints
 
 $RESOURCES = array 
 (

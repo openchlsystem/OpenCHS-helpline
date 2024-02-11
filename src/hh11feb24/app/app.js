@@ -21,6 +21,8 @@ var UU =
 "chan_add_ld":{ "203":[["chan_add_ld","action"]] },
 "call_add_ld":{ "203":[["call_add_ld","action"]], 412:[["nb","errors","v","nb"]] },
 
+"sup":{ "203":[["noop","action"]] },
+
 "ati_end":{ "201":[["ati_ended","messages"]] }, // ati_ended
 "nti_end":{ "201":[["nti_ended","messages"]] }, // ati_ended
 
@@ -889,7 +891,7 @@ te["wall_calls"] = { div:["ma x15 y15"], c: //
 
 	{ div:[""] }, // case stats here
 	
-	{ div:[""], s:["abs w80 tt",""], c:
+	{ div:[""], s:["tt w80_",""], c:
 	[
 		{ div:["x y"], c:
 		[

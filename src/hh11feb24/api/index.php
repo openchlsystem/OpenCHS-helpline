@@ -171,6 +171,47 @@ function _message_in (&$o, &$p)
 	return $rt;
 }
 
+function _sup (&$o) // "action=", "exten="
+{
+	$usn = $_SESSION["cc_user_usn"];
+	$exten = $_SESSION["cc_user_exten"];
+	$role = $_SESSION["cc_user_role"];
+
+	error_log ("[sup] request ".json_encode ($o)." | ".$usn. " ". $exten);
+	
+	if ($role!=2 && $role!=99) return 404;
+	
+	$r = muu ("ami","sync?c=-1&");
+	$o_ = json_decode ($r['data'], true);
+	$k = array_keys ($o_['channels']);
+	$n = count ($k);
+	$me = null;
+	$agent = null;
+	for ($i=0; $i<$n; $i++) 
+	{
+		$ch = $o_['channels'][$k[$i]];
+		if (strlen ($ch[16])>0) continue;
+		if ($me==null && $ch[43]=="supervisor" && $ch[4]==$exten) 
+		{ 
+			$me=$k[$i]; 
+			continue; 
+		}
+		if ($agent==null && $ch[0]==$o["exten"]) // find agent uid
+		{
+			$agent=$k[$i];
+		}
+	}
+	$s = "sup?action=".$o['action']."&usr=".$usn."&exten=".$exten."&agent=".$o['exten'];
+	if ($me!=null) $s .= "&chan=".$o_['channels'][$me][3];
+	if ($agent!=null) $s .= "&uid=".$agent;
+	muu ("ami",$s); 
+	header ("HTTP/1.0 203 Wait");
+	header ('Content-Type: application/json');
+	$ts = time ();
+	echo '{ "action":[["'.$ts.'","'.$o['action'].'"]] }'; 
+	return 201;
+}
+
 function _chan (&$o)
 {
 	$usn = $_SESSION["cc_user_usn"];
@@ -563,6 +604,8 @@ function _request_ ()
 	if ($u=="agent") return _agent ($o);
 	
 	if ($u=="chan") return _chan ($o);
+	
+	if ($u=="sup") return _sup ($o);
 	
 	if ($u=="dash") 
 	{

@@ -339,23 +339,65 @@ te["chan_call"] = { p:["ba mtn1","%2"], c:[ { li:[""], ev:[], c:
 	{ div:[] }
 ]} ]};
 
+te["chan_agent_sup"] = { c:
+[
+	{ div:["ab","va"], ac:["content-hidden","","_dd","cb",""], c:
+	[
+		{ s:["content-shown_ w02 y gd cw tc micon","more_vert"] }, 
+		{ s:["content-hidden_ w02 y tc micon","more_vert"] }, 
+	]},
+	{ div:["dd w12 y gd cw mln10","vdd"], ev:["_undd"], c:
+	[
+		{ div:[], c:
+		[
+			{ input:["g","optsupc","optsupc","2","radio"] },
+			{ ac:["tabi_ ay","","_sup","xx y cw","Spy"], c:[ { arg:["","action","2"] }, { arg:["","exten","%0"] } ] },
+			{ div:[] }
+		]},
+		{ div:[], c:
+		[
+			{ input:["g","optsupc","optsupc","3","radio"] },
+			{ ac:["tabi_ ay","","_sup","xx y cw","Whisper"], c:[ { arg:["","action","3"] }, { arg:["","exten","%0"] } ] },
+			{ div:[] }
+		]},
+		{ div:[], c:
+		[
+			{ input:["g","optsupc","optsupc","4","radio"] },
+			{ ac:["tabi_ ay","","_sup","xx y cw","Barge"], c:[ { arg:["","action","4"] }, { arg:["","exten","%0"] } ] },
+			{ div:[] }
+		]},
+		{ div:[], c:
+		[
+			{ input:["g","optsupc","optsupc","0","radio"] },
+			{ ac:["tabi_ ay","","_sup","xx y cw","Force Logout"], c:[ { arg:["","action","0"] }, { arg:["","exten","%0"] } ] },
+			{ div:[] }
+		]}
+	]}        	
+]};
+
 te["chan_agent_cid_name"] = { s:["","%1"] };
 
-te["chan_agent"] = { p:["","%2"], c:[ { div:[""], ev:["_sup"], c: // more_vert
+te["chan_agent"] = { p:["","%2"], c:[ { div:[], c:
 [
         { input:["g","optc","chvw0","%2","radio",""] },
-        { li:["x y02 mb gws_ mtn1"], c: // x y02 gw bl_ br_ bb_
+        { li:["y02 mb gws_ mtn1"], c: // x y02 gw bl_ br_ bb_
         [
-                { s:["c w03 x y cb",""] },      // cid_num
+                { s:["c w03 ll y cb",""] },      // cid_num
                 { s:["c w08 x y cb",null] },    // cid_name
                 { s:["c w02 x y cb",""] },      // vector
                 { s:["c w12 x y s",""] },   	// cid2
 		{ div:[] },
 
+		{ div:["d l "], c:
+		[
+			{ div:["admin_"], chan_agent_sup:[] },
+			{ div:["supervisor_"], chan_agent_sup:[] }
+		]},
+
                 { s:["d x y w08 tr b",""] },    // status-duration
                 { arg:["ts","",""] },           // status-ts
                 { s:["d x y w08 tr s",""] },    // status-text
-
+                           
                 { div:["e"] }
         ]},
         { div:[] }
@@ -400,8 +442,10 @@ te["agent_status"] = { div:["y02",null], c:
 
 function _sup ()
 {
-	var f = re["user_role"][ra["auth"][0][6]][4]
-	if (f!="1") return
+	this.previousSibling.checked = true;
+	var o = {};
+	argv (this, o);
+	url (this.nextSibling, "sup", "sup", "", null, 2, o, "POST");
 }
 
 // -------------------------------------------------------
@@ -527,7 +571,7 @@ function call_popup (el, f=0)
 		
 	console.log ("call_popup args:"+JSON.stringify (a)+"|"+JSON.stringify (r_));
 	
-	if (a.cid_name=="AgentLogin") return;
+	if (a.cid_name=="AgentLogin" || a.cid_name=="Supervisor") return;
 	
 	// todo: get current checkted tab in coll[6]
 	
@@ -611,7 +655,7 @@ function chani (tp,p,ch,ts,k_=2,top_=0)
 	var mm = 
 	{ 
 		"chan_agent_start":[[1,0],[-1,-1],[1,3],[1,4], [2,5],[1,1]],
-		"chan_agent":[[1,AMI.CHAN_CALLERID_NUM], [-1,-1], [1,-1], [1,AMI.CHAN_CID_NUM_2], [1,-1], [1,AMI.CHAN_STATUS_TS_TXT_], [2,AMI.CHAN_STATUS_TS_], [1,AMI.CHAN_STATUS_TXT_] ],
+		"chan_agent":[[1,AMI.CHAN_CALLERID_NUM], [-1,-1], [1,-1], [1,AMI.CHAN_CID_NUM_2], [-1,-1], [-1,-1], [1,AMI.CHAN_STATUS_TS_TXT_], [2,AMI.CHAN_STATUS_TS_], [1,AMI.CHAN_STATUS_TXT_] ],
 		"chan_call":[[1,AMI.CHAN_CID_NUM_2], [-1,-1],  [1,AMI.CHAN_VECTOR,"::vector:0:5"], [1,AMI.CHAN_CALLERID_NUM], [1,AMI.CHAN_STATUS_TS_TXT_],[2,AMI.CHAN_STATUS_TS_],[1,AMI.CHAN_STATUS_TXT_]],
 		"chan_add":[[1,AMI.CHAN_CALLERID_NUM],[-1,-1],[-1,-1], [1,AMI.CHAN_CID_NUM_2], [1,AMI.CHAN_STATUS_TS_TXT_],[2,AMI.CHAN_STATUS_TS_],[1,AMI.CHAN_STATUS_TXT_]],
 	};
